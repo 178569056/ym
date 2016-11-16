@@ -1,0 +1,60 @@
+{
+    "errormsg": false,
+    "totals": 5,
+    "curr_page": 1,
+    "pages": 1,
+    "record": [
+        {
+            "id": "12302",
+            "title": "创业公司的融资和股权结构",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-03/12302_190X1420310.jpg",
+            "authorname": "王利芬 优米网创始人、总裁  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12302&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "974"
+        },
+        {
+            "id": "10665",
+            "title": "私募融资流程和条款解析",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/10665_190X1420704.jpg",
+            "authorname": "赵甜 优势资本（私募投资）有限公司、财富中国金融服务有限公司执行合伙人  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10665&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2166"
+        },
+        {
+            "id": "152",
+            "title": "成长型企业股权激励方案",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2012-09/152_190X142.jpg",
+            "authorname": "郭凡生 慧聪国际董事局主席                                ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=152&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "6617"
+        },
+        {
+            "id": "10097",
+            "title": "创业公司如何用好股权激励",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2013-04/10097_190X1420418.jpg",
+            "authorname": "刘松琳 聚成企业管理顾问股份有限公司董事长",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10097&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2936"
+        },
+        {
+            "id": "11193",
+            "title": "餐饮企业股权激励与考核方法",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/11193_190X1420710.jpg",
+            "authorname": "周忠亭 中成伟业酒店主席，世界华人健康饮食协会副主席 ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11193&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1973"
+        }
+    ],
+    "returnmsg": "",
+    "total": 5
+}

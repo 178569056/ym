@@ -1,0 +1,179 @@
+body {
+  background: #f0f0f0;
+}
+.CYLQ .CYhead .header {
+  width: 100%;
+  height: 0.48rem;
+  line-height: 0.48rem;
+  text-align: center;
+  color: white;
+  font-size: 0.2rem;
+  background-image: -webkit-linear-gradient(45deg, #ff9900, #ff6600);
+  position: relative;
+}
+.CYLQ .CYhead .header span {
+  color: white;
+}
+.CYLQ .CYhead .header a:first-child span {
+  float: left;
+  width: 0.2rem;
+  height: 0.2rem;
+  border: #fff solid;
+  border-width: 0 0 2px 2px;
+  transform: rotate(45deg);
+  margin: 0.15rem 0 0 0.15rem;
+}
+.CYLQ .CYhead .header a:nth-child(2) span {
+  width: 0.3rem;
+  height: 0.42rem;
+  display: block;
+  float: right;
+  font-size: 0.14rem;
+  background: url(../img/publicico.png) no-repeat center center;
+  background-size: cover;
+  background-position: 0 -1.15rem;
+  margin: 0.1rem 0.1rem 0 0;
+}
+.CYLQ .CYhead .header .daohang {
+  position: absolute;
+  top: 0.48rem;
+  right: 0;
+  width: 0.9rem;
+  height: 1.5rem;
+  background: #ff6f0e;
+  z-index: 9;
+  display: none;
+}
+.CYLQ .CYhead .header .daohang li {
+  width: 100%;
+  height: 0.5rem;
+  line-height: 0.5rem;
+  border-bottom: 1px solid white;
+  color: white;
+  font-size: 0.14rem;
+}
+
+
+
+
+.CYLQ .YXnav {
+  background: white;
+  padding-bottom: 20px;
+}
+.CYLQ .YXnav img {
+  width: 100%;
+}
+.CYLQ .YXnav p {
+  margin: 20px 10px 0 10px;
+  font-size: 0.14rem;
+  border-top: 1px solid #EFEFEF;
+  border-bottom: 1px solid #EFEFEF;
+  position: relative;
+  padding: 10px 0;
+}
+.CYLQ .YXnav p span {
+  position: absolute;
+  display: inline-block;
+  width: 0.3rem;
+  height: 0.04rem;
+  background: #999999;
+}
+.CYLQ .YXnav p span:first-child {
+  top: -0.04rem;
+  left: 0;
+}
+.CYLQ .YXnav p span:last-child {
+  bottom: 0;
+  right: 0;
+}
+.CYLQ .YX1 {
+  background: white;
+  margin-top: 10px;
+  padding: 0 10px;
+}
+.CYLQ .YX1 h3 {
+  border-bottom: 1px solid #EFEFEF;
+  padding: 10px 0;
+}
+.CYLQ .YX1 .p1 {
+  font-size: 0.14rem;
+  color: #999;
+  line-height: 0.3rem;
+}
+.CYLQ .YX1 ul {
+  overflow: hidden;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding-bottom: 10px;
+}
+.CYLQ .YX1 ul li {
+  width: 48%;
+  padding: 5px 0;
+  float: left;
+}
+.CYLQ .YX1 ul li div {
+  width: 100%;
+  position: relative;
+}
+.CYLQ .YX1 ul li div img {
+  width: 100%;
+}
+.CYLQ .YX1 ul li div span {
+  position: absolute;
+  display: inline-block;
+  background: orangered;
+  font-size: 0.1rem;
+  padding: 5px;
+  color: white;
+  bottom: 0.03rem;
+  right: 0;
+}
+.CYLQ .YX1 ul li p {
+  font-size: 0.14rem;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.CYLQ .YX1 ul li:nth-of-type(odd) {
+  margin-right: 10px;
+}
+.CYLQ .YXfooter {
+  background: white;
+  margin-top: 10px;
+  padding: 20px 0;
+}
+.CYLQ .YXfooter ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.CYLQ .YXfooter ul li {
+  width: 50%;
+  line-height: 0.3rem;
+  padding-left: 0.3rem;
+  box-sizing: border-box;
+  color: #999999;
+  position: relative;
+}
+.CYLQ .YXfooter ul li i {
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  width: 0.23rem;
+  height: 0.2rem;
+  display: inline-block;
+  background: url(../images/my4.png) no-repeat;
+  background-size: cover;
+  padding-top: 5px;
+}
+.CYLQ .YXfooter ul li:first-child i {
+  background-position: 0 -2.03rem;
+}
+.CYLQ .YXfooter ul li:nth-of-type(2) i {
+  background-position: 0 -2.27rem;
+}
+.CYLQ .YXfooter ul li:nth-of-type(3) i {
+  background-position: 0 -2.53rem;
+}
+.CYLQ .YXfooter ul li:nth-of-type(4) i {
+  background-position: 0 -2.78rem;
+}

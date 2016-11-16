@@ -1,0 +1,33 @@
+app.controller('find_passwordCtrl',['$scope',function($scope){
+	$('#header').hide();
+	$('#ul').hide();
+	$('.home').on('click',function(){
+		$('#header').show();
+		$('#ul').show();
+		$('#landing').hide();
+		console.log('sdfsdf');
+	})
+	
+	//点击导航出现下拉菜单
+	$('.dao').on('click',function(){
+		$('.daohang').toggle();
+		$('.shouye').on('click',function(){
+			$('#header').show();
+			$('#ul').show();
+			$('#landing').hide();
+			$('#main').show;
+		})
+		$('.sousuo').on('click',function(){
+				$('#header').show();
+				$('#ul').show();
+				$('#landing').hide();
+				$('#main').show;
+		})
+		$('.wode').on('click',function(){
+				$('#header').show();
+				$('#ul').show();
+				$('#landing').hide();
+				$('#main').show;
+		})
+	})
+}])

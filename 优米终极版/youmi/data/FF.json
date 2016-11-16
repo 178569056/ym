@@ -1,0 +1,107 @@
+{
+    "e": "9999",
+    "m": "操作成功",
+    "payment": {
+        "balance": 0,
+        "payment_id": "P00044221945",
+        "order_id": "A0046428945",
+        "order_amt": "106",
+        "amount": "106.00",
+        "uid": "7633645",
+        "sdk": [
+            {
+                "channels": "22",
+                "method": "alipay",
+                "name": "支付宝客户端支付",
+                "icon": "http://i1.umivi.net/v/static/2013/m/images/bankimg/ALIPAY.png",
+                "desc": "适用于安装了支付宝客户端的用户",
+                "url": "http://v.youmi.cn/deposit/merchantProxy/?mid=2&channel=22&amount=106.00&payment_id=P00044221945"
+            },
+            {
+                "channels": "23",
+                "method": "weixinpay",
+                "name": "微信",
+                "icon": "http://i1.umivi.net/v/static/2013/m/images/bankimg/WEIXIN.png",
+                "desc": "适用于安装了微信客户端的用户",
+                "url": "http://v.youmi.cn/deposit/merchantProxy/?mid=2&channel=23&amount=106.00&payment_id=P00044221945"
+            },
+            {
+                "channels": "21",
+                "method": "unionpay",
+                "name": "银联",
+                "icon": "http://i1.umivi.net/v/static/2013/m/images/bankimg/UNIONPAY.png",
+                "desc": "适用于安装了银联客户端的用户",
+                "url": "http://v.youmi.cn/deposit/merchantProxy/?mid=2&channel=21&amount=106.00&payment_id=P00044221945"
+            },
+            {
+                "channels": "15",
+                "method": "wap",
+                "name": "支付宝WAP支付",
+                "icon": "http://i1.umivi.net/v/static/2013/m/images/bankimg/ALIPAYWAP.png",
+                "desc": "打开支付宝网页进行支付",
+                "url": "http://v.youmi.cn/deposit/merchantProxy/?mid=2&channel=15&amount=106.00&payment_id=P00044221945"
+            },
+            {
+                "channels": "20",
+                "method": "wap",
+                "name": "信用卡快捷支付",
+                "icon": "http://i1.umivi.net/v/static/2013/m/images/bankimg/UPAY.png",
+                "desc": "打开信用卡快捷支付网页进行支付",
+                "url": "http://v.youmi.cn/deposit/merchantProxy/?mid=2&channel=20&amount=106.00&payment_id=P00044221945"
+            }
+        ],
+        "bank": [
+            {
+                "channels": "11",
+                "method": "wap",
+                "name": "招商银行",
+                "icon": "http://i1.umivi.net/v/static/2013/m/images/bankimg/CMB.png?v=1",
+                "desc": "招商银行",
+                "url": "http://v.youmi.cn/deposit/merchantProxy/?mid=2&channel=1&amount=106.00&payment_id=P00044221945&bank_id=CMB"
+            },
+            {
+                "channels": "11",
+                "method": "wap",
+                "name": "中国建设银行",
+                "icon": "http://i1.umivi.net/v/static/2013/m/images/bankimg/CCB.png?v=1",
+                "desc": "中国建设银行",
+                "url": "http://v.youmi.cn/deposit/merchantProxy/?mid=2&channel=1&amount=106.00&payment_id=P00044221945&bank_id=CCB"
+            },
+            {
+                "channels": "11",
+                "method": "wap",
+                "name": "交通银行",
+                "icon": "http://i1.umivi.net/v/static/2013/m/images/bankimg/BCOM.png?v=1",
+                "desc": "交通银行",
+                "url": "http://v.youmi.cn/deposit/merchantProxy/?mid=2&channel=1&amount=106.00&payment_id=P00044221945&bank_id=BCOM"
+            },
+            {
+                "channels": "11",
+                "method": "wap",
+                "name": "中国民生银行",
+                "icon": "http://i1.umivi.net/v/static/2013/m/images/bankimg/CMBC.png?v=1",
+                "desc": "中国民生银行",
+                "url": "http://v.youmi.cn/deposit/merchantProxy/?mid=2&channel=1&amount=106.00&payment_id=P00044221945&bank_id=CMBC"
+            },
+            {
+                "channels": "11",
+                "method": "wap",
+                "name": "中国邮政储蓄",
+                "icon": "http://i1.umivi.net/v/static/2013/m/images/bankimg/POST.png?v=1",
+                "desc": "中国邮政储蓄",
+                "url": "http://v.youmi.cn/deposit/merchantProxy/?mid=2&channel=1&amount=106.00&payment_id=P00044221945&bank_id=POST"
+            },
+            {
+                "channels": "11",
+                "method": "wap",
+                "name": "北京银行",
+                "icon": "http://i1.umivi.net/v/static/2013/m/images/bankimg/BOB.png?v=1",
+                "desc": "北京银行",
+                "url": "http://v.youmi.cn/deposit/merchantProxy/?mid=2&channel=1&amount=106.00&payment_id=P00044221945&bank_id=BOB"
+            }
+        ],
+        "confirmurl": "",
+        "isenough": false,
+        "mid": "2"
+    }
+}

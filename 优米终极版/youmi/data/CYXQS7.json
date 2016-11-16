@@ -1,0 +1,210 @@
+{
+    "errormsg": false,
+    "totals": 260,
+    "curr_page": 1,
+    "pages": 13,
+    "record": [
+        {
+            "id": "12391",
+            "title": "话说比特币",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-07/12391_190X1420729.png",
+            "authorname": "吴忌寒 比特大陆联合创始人",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12391&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2511"
+        },
+        {
+            "id": "12392",
+            "title": "以情怀创造价值",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-07/12392_190X1420720.png",
+            "authorname": "张焱 铜掌柜CEO ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12392&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2863"
+        },
+        {
+            "id": "12386",
+            "title": "互联网+区块链的化学效益",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-07/12386_190X1420707.png",
+            "authorname": "刘洋 币看网创始人兼CEO",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12386&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1945"
+        },
+        {
+            "id": "12385",
+            "title": "人人都是金融家",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-07/12385_190X1420706.jpg",
+            "authorname": "李林 火币网创始人兼董事长",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12385&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1928"
+        },
+        {
+            "id": "12379",
+            "title": "洞察与社交媒体2",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-06/12379_190X1420627.jpg",
+            "authorname": "刘文中 新浪高级微博传播顾问     ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12379&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "210"
+        },
+        {
+            "id": "12378",
+            "title": "洞察与社交媒体1",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-06/12378_190X1420627.jpg",
+            "authorname": "刘文中 新浪高级微博传播顾问     ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12378&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "407"
+        },
+        {
+            "id": "12375",
+            "title": "借势自媒体 做傲娇网红（四）",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-06/12375_190X1420621.jpg",
+            "authorname": "林大亮  微信海VP 极盟创始人    ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12375&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "541"
+        },
+        {
+            "id": "12374",
+            "title": "借势自媒体 做傲娇网红（三）",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-06/12374_190X1420622.jpg",
+            "authorname": "林大亮  微信海VP 极盟创始人    ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12374&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "340"
+        },
+        {
+            "id": "12372",
+            "title": "借势自媒体 做傲娇网红（一）",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-06/12372_190X1420620.jpg",
+            "authorname": "林大亮  微信海VP 极盟创始人    ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12372&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "905"
+        },
+        {
+            "id": "12370",
+            "title": "玩转口碑营销3",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-06/12370_190X1420612.jpg",
+            "authorname": "刘文中 新浪高级微博传播顾问     ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12370&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "410"
+        },
+        {
+            "id": "12369",
+            "title": "玩转口碑营销2",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-06/12369_190X1420612.jpg",
+            "authorname": "刘文中 新浪高级微博传播顾问     ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12369&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "379"
+        },
+        {
+            "id": "12368",
+            "title": "玩转口碑营销1",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-06/12368_190X1420608.jpg",
+            "authorname": "刘文中 新浪高级微博传播顾问     ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12368&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1042"
+        },
+        {
+            "id": "12367",
+            "title": "社会化新媒体营销3",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-06/12367_190X1420612.jpg",
+            "authorname": "姚雷 微信海合伙人 ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12367&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "288"
+        },
+        {
+            "id": "12366",
+            "title": "社会化新媒体营销2",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-06/12366_190X1420607.jpg",
+            "authorname": "姚雷 微信海合伙人 ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12366&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "390"
+        },
+        {
+            "id": "12365",
+            "title": "社会化新媒体营销1",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-06/12365_190X1420606.jpg",
+            "authorname": "姚雷 微信海合伙人 ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12365&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "435"
+        },
+        {
+            "id": "12357",
+            "title": "互联网+的古惑仔时代3",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-05/12357_190X1420525.jpg",
+            "authorname": "傅彦生 管家帮创始人、董事长  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12357&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "430"
+        },
+        {
+            "id": "12354",
+            "title": " 互联网+的古惑仔时代2",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-05/12354_190X1420523.jpg",
+            "authorname": "傅彦生 管家帮创始人、董事长  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12354&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "240"
+        },
+        {
+            "id": "12352",
+            "title": "互联网+的古惑仔时代1",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-05/12352_190X1420524.jpg",
+            "authorname": "傅彦生 管家帮创始人、董事长  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12352&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "330"
+        },
+        {
+            "id": "12349",
+            "title": "互联网+自媒体营销（九）",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-05/12349_190X1420516.jpg",
+            "authorname": "肖森舟 中国微商十大领袖   ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12349&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "555"
+        },
+        {
+            "id": "12347",
+            "title": "互联网+自媒体营销（八）",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-05/12347_190X1420513.jpg",
+            "authorname": "肖森舟 中国微商十大领袖   ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12347&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "525"
+        }
+    ],
+    "returnmsg": "",
+    "total": 20
+}

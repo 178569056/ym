@@ -1,0 +1,455 @@
+{
+    "total": 50,
+    "record": [
+        {
+            "id": "1347",
+            "title": "马云与80后面对面聊创业",
+            "image": "http://i1.umivi.net/v/vipalbum/2012-08/20120814101342.jpg",
+            "grade": "1",
+            "authorname": "马云 阿里巴巴集团董事局主席",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=1347&frm=rank_useful"
+        },
+        {
+            "id": "11417",
+            "title": "俞敏洪与年轻人对话",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-06/11417_190X1420625.jpg",
+            "grade": "1",
+            "authorname": "俞敏洪 新东方教育科技集团创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11417&frm=rank_useful"
+        },
+        {
+            "id": "10400",
+            "title": "赢在中国评委马云精彩点评",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-09/10400_190X1420912.jpg",
+            "grade": "1",
+            "authorname": "马云 阿里巴巴集团董事局主席",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10400&frm=rank_useful"
+        },
+        {
+            "id": "11479",
+            "title": "先锋人物之王利芬专访",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-08/11479_190X1420805.jpg",
+            "grade": "1",
+            "authorname": "王利芬 优米网创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11479&frm=rank_useful"
+        },
+        {
+            "id": "11388",
+            "title": "实习生到最高决策层的蜕变",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/11388_190X1420708.jpg",
+            "grade": "1",
+            "authorname": "李明远 百度副总裁",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11388&frm=rank_useful"
+        },
+        {
+            "id": "11313",
+            "title": "新趋势下360要重启与突围",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-05/11313_190X1420530.jpg",
+            "grade": "1",
+            "authorname": "周鸿祎 奇虎360董事长",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11313&frm=rank_useful"
+        },
+        {
+            "id": "213",
+            "title": "跟着史玉柱学营销",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-05/213_190X1420530.jpg",
+            "grade": "30",
+            "authorname": "史玉柱 巨人网络集团有限公司董事长",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=213&frm=rank_useful"
+        },
+        {
+            "id": "10092",
+            "title": "雷军：创业第一课",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-02/10092_190X1420226.jpg",
+            "grade": "20",
+            "authorname": "雷军 小米科技创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10092&frm=rank_useful"
+        },
+        {
+            "id": "11979",
+            "title": "八分钟活出精彩人生",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-03/11979_190X1420317.jpg",
+            "grade": "1",
+            "authorname": "van小宝 国内新锐视频制作人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11979&frm=rank_useful"
+        },
+        {
+            "id": "10369",
+            "title": "解读李连杰的生命密码",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-05/10369_190X1420530.jpg",
+            "grade": "1",
+            "authorname": "李连杰 太极禅创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10369&frm=rank_useful"
+        },
+        {
+            "id": "1348",
+            "title": "电商巨头刘强东创业传记 ",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-12/1348_190X1421222.jpg",
+            "grade": "15",
+            "authorname": "刘强东 京东商城董事局主席",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=1348&frm=rank_useful"
+        },
+        {
+            "id": "11282",
+            "title": "马佳佳的另类营销",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-04/11282_190X1420429.jpg",
+            "grade": "1",
+            "authorname": "马佳佳 女性社区High创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11282&frm=rank_useful"
+        },
+        {
+            "id": "11370",
+            "title": "俞敏洪：大学生如何不迷茫",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-05/11370_190X1420529.jpg",
+            "grade": "1",
+            "authorname": "俞敏洪 新东方教育科技集团创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11370&frm=rank_useful"
+        },
+        {
+            "id": "10496",
+            "title": "口才训练：如何进行高效汇报",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/10496_190X1420717.jpg",
+            "grade": "1",
+            "authorname": "赵鹤之 国际教育协会特约讲师",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10496&frm=rank_useful"
+        },
+        {
+            "id": "11425",
+            "title": "打造大学生创业团队精神",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/11425_190X1420701.jpg",
+            "grade": "1",
+            "authorname": "徐小平 新东方文化发展研究院院长",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11425&frm=rank_useful"
+        },
+        {
+            "id": "1011",
+            "title": "冯仑：如何提高个人软实力",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-05/1011_190X1420530.jpg",
+            "grade": "1",
+            "authorname": "冯仑 万通地产董事长",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=1011&frm=rank_useful"
+        },
+        {
+            "id": "11664",
+            "title": "我只想做一家小公司",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-10/11664_190X1421027.jpg",
+            "grade": "1",
+            "authorname": "雷军 小米科技创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11664&frm=rank_useful"
+        },
+        {
+            "id": "1396",
+            "title": "李开复：如何自定人生",
+            "image": "http://i1.umivi.net/v/vipalbum/2012-09/20120907161543.jpg",
+            "grade": "1",
+            "authorname": "李开复 创新工场董事长",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=1396&frm=rank_useful"
+        },
+        {
+            "id": "10929",
+            "title": "赢在中国蓝天碧水间总决赛",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/10929_190X1420721.jpg",
+            "grade": "30",
+            "authorname": "马云 阿里巴巴集团董事局主席",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10929&frm=rank_useful"
+        },
+        {
+            "id": "1190",
+            "title": " 王石：怎样做最好的自己",
+            "image": "http://i1.umivi.net/v/vipalbum/listimage/2013-02/1190_190X142.jpg",
+            "grade": "1",
+            "authorname": "王石 万科企业股份有限公司董事会主席",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=1190&frm=rank_useful"
+        },
+        {
+            "id": "12021",
+            "title": "兰世立创业传记",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-04/12021_190X1420416.jpg",
+            "grade": "1",
+            "authorname": "兰世立 中国东星集团有限公司董事局主席",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12021&frm=rank_useful"
+        },
+        {
+            "id": "11381",
+            "title": "移动互联时代创业机会",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-05/11381_190X1420529.jpg",
+            "grade": "1",
+            "authorname": "李明远 百度副总裁",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11381&frm=rank_useful"
+        },
+        {
+            "id": "11965",
+            "title": "梦想掌握在自己手中",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-03/11965_190X1420316.jpg",
+            "grade": "1",
+            "authorname": "Mateusz M 美国励志演讲短片《梦想》",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11965&frm=rank_useful"
+        },
+        {
+            "id": "10931",
+            "title": "赢在中国蓝天碧水间总决赛（电视版）",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/10931_190X1420721.jpg",
+            "grade": "1",
+            "authorname": "马云 阿里巴巴集团董事局主席",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10931&frm=rank_useful"
+        },
+        {
+            "id": "11644",
+            "title": "李彦宏眼中的互联网",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-10/11644_190X1421024.jpg",
+            "grade": "1",
+            "authorname": "李彦宏 百度创始人、董事长",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11644&frm=rank_useful"
+        },
+        {
+            "id": "10730",
+            "title": "创业失败血泪史",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/10730_190X1420704.jpg",
+            "grade": "1",
+            "authorname": "李秋风 武汉风华游戏创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10730&frm=rank_useful"
+        },
+        {
+            "id": "1349",
+            "title": "营销大师杜子建创业传记",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-12/1349_190X1421202.jpg",
+            "grade": "30",
+            "authorname": "杜子建 华艺传媒首席顾问",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=1349&frm=rank_useful"
+        },
+        {
+            "id": "11641",
+            "title": "杜子建教你4秒留住用户",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-12/11641_190X1421215.jpg",
+            "grade": "20",
+            "authorname": "杜子建 华艺传媒首席顾问",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11641&frm=rank_useful"
+        },
+        {
+            "id": "10402",
+            "title": "赢在中国评委史玉柱点评",
+            "image": "http://i1.umivi.net/v/album/2013-06/20130607151605.jpg",
+            "grade": "1",
+            "authorname": "史玉柱 巨人网络集团有限公司董事长",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10402&frm=rank_useful"
+        },
+        {
+            "id": "11087",
+            "title": "黄太吉煎饼如何颠覆餐饮业",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-08/11087_190X1420812.jpg",
+            "grade": "1",
+            "authorname": "赫畅 黄太吉传统美食创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11087&frm=rank_useful"
+        },
+        {
+            "id": "12005",
+            "title": "你为什么还没成功",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-04/12005_190X1420403.jpg",
+            "grade": "1",
+            "authorname": "埃里克斯•肯德里克 美国知名电影制作人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12005&frm=rank_useful"
+        },
+        {
+            "id": "12057",
+            "title": "众创空间：重新定义创业",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-05/12057_190X1420513.jpg",
+            "grade": "1",
+            "authorname": "王利芬 优米网创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12057&frm=rank_useful"
+        },
+        {
+            "id": "11758",
+            "title": "马云励志宣传片",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-12/11758_190X1421211.jpg",
+            "grade": "1",
+            "authorname": "马云 阿里巴巴集团董事局主席",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11758&frm=rank_useful"
+        },
+        {
+            "id": "11387",
+            "title": "如何用微信打造人脉",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-06/11387_190X1420604.jpg",
+            "grade": "20",
+            "authorname": "肖森舟 中国微商十大领袖",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11387&frm=rank_useful"
+        },
+        {
+            "id": "10397",
+            "title": "赢在中国第三季：总决赛",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-09/10397_190X1420917.jpg",
+            "grade": "1",
+            "authorname": "马云 阿里巴巴集团董事局主席",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10397&frm=rank_useful"
+        },
+        {
+            "id": "12012",
+            "title": "我们为什么而活",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-04/12012_190X1420410.jpg",
+            "grade": "1",
+            "authorname": "Younes Marxieu 一道致力于帮助世界励志视频",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12012&frm=rank_useful"
+        },
+        {
+            "id": "1018",
+            "title": "不以打工者心态工作",
+            "image": "http://i1.umivi.net/v/image/2012-06/20120607141349.jpg",
+            "grade": "1",
+            "authorname": "周鸿祎 奇虎360董事长",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=1018&frm=rank_useful"
+        },
+        {
+            "id": "11826",
+            "title": "马云励志演讲",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-01/11826_190X1420106.jpg",
+            "grade": "1",
+            "authorname": "马云 阿里巴巴集团董事局主席",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11826&frm=rank_useful"
+        },
+        {
+            "id": "1383",
+            "title": "沟通的技巧",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-06/1383_190X1420627.jpg",
+            "grade": "1",
+            "authorname": "李亦非 英仕曼集团中国区主席",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=1383&frm=rank_useful"
+        },
+        {
+            "id": "11987",
+            "title": "不怕跌倒永不放弃",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-03/11987_190X1420327.jpg",
+            "grade": "1",
+            "authorname": "Mateusz M 美国励志演讲短片《梦想》",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11987&frm=rank_useful"
+        },
+        {
+            "id": "1012",
+            "title": "创业是否需要信仰",
+            "image": "http://i1.umivi.net/v/vipalbum/2012-08/20120820084229.jpg",
+            "grade": "1",
+            "authorname": "王健林 万达集团董事长",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=1012&frm=rank_useful"
+        },
+        {
+            "id": "10375",
+            "title": "赢在中国第一季创业百问",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-09/10375_190X1420902.jpg",
+            "grade": "1",
+            "authorname": "马云 阿里巴巴集团董事局主席",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10375&frm=rank_useful"
+        },
+        {
+            "id": "10808",
+            "title": "金字塔原理让你赢在表达",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-06/10808_190X1420630.jpg",
+            "grade": "20",
+            "authorname": "汪洱 麦肯锡《金字塔原理》翻译者",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10808&frm=rank_useful"
+        },
+        {
+            "id": "11334",
+            "title": "姚劲波人物传记",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-05/11334_190X1420516.jpg",
+            "grade": "1",
+            "authorname": "姚劲波 58同城网CEO",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11334&frm=rank_useful"
+        },
+        {
+            "id": "260",
+            "title": "企业家精神重振与电商未来",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/260_190X1420710.jpg",
+            "grade": "20",
+            "authorname": "马云 阿里巴巴集团董事局主席",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=260&frm=rank_useful"
+        },
+        {
+            "id": "11110",
+            "title": "微信卖桂花鸭月入50万",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/11110_190X1420703.jpg",
+            "grade": "20",
+            "authorname": "张自创 南京么么文化传播有限公司CEO",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11110&frm=rank_useful"
+        },
+        {
+            "id": "136",
+            "title": "周鸿祎讲解如何微创新",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-05/136_190X1420530.jpg",
+            "grade": "30",
+            "authorname": "周鸿祎 奇虎360董事长",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=136&frm=rank_useful"
+        },
+        {
+            "id": "10377",
+            "title": "赢在中国第一季晋级12强",
+            "image": "http://i1.umivi.net/v/album/2013-07/20130711171339.jpg",
+            "grade": "1",
+            "authorname": "马云 阿里巴巴集团董事局主席",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10377&frm=rank_useful"
+        },
+        {
+            "id": "11107",
+            "title": "中国式宴请全规则",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-06/11107_190X1420606.jpg",
+            "grade": "1",
+            "authorname": "杨路 雅致人生素质教育集团董事长",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11107&frm=rank_useful"
+        },
+        {
+            "id": "10731",
+            "title": "赢在中国第一期",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/10731_190X1420721.jpg",
+            "grade": "1",
+            "authorname": "汪小菲 合润麟（北京）食品有限公司董事长",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10731&frm=rank_useful"
+        }
+    ]
+}

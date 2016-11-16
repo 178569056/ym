@@ -1,0 +1,87 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  color: #333;
+}
+body {
+  font-size: 0.16rem;
+}
+html {
+  background: #e5e5e5;
+}
+#box {
+  width: 375px;
+  margin: 0 auto;
+  font-size: .14rem;
+}
+#index #header {
+  width: 100%;
+  height: 0.5219rem;
+  background-image: -webkit-linear-gradient(45deg, #ff9900, #ff6600);
+}
+#index #header span {
+  display: block;
+  width: 0.78rem;
+  height: 0.528rem;
+  float: left;
+  display: flex;
+}
+#index #header span a {
+  display: block;
+  width: 0.2759rem;
+  height: 0.2759rem;
+  margin: 0.1rem 0 0 0.08rem;
+}
+#index #header span a:first-child {
+  background: url(../img/publicico.png) no-repeat center center;
+  background-size: cover;
+  background-position: 0 -0.48rem;
+}
+#index #header span a:nth-child(2) {
+  background: url(../img/publicico.png) no-repeat center center;
+  background-size: cover;
+  background-position: 0 0rem;
+}
+#index #header span:first-child img {
+  width: 100%;
+  height: 100%;
+}
+#index #header input {
+  width: 2.175rem;
+  height: 0.3rem;
+  border: none;
+  border: 1px solid gainsboro;
+  border-radius: 0.03rem;
+  float: left;
+  margin-top: 0.11rem;
+  padding: 0.1rem;
+  font-size: 0.16rem;
+  color: black;
+}
+#index #ul {
+  width: 100%;
+  height: 0.4rem;
+  background: white;
+}
+#index #ul ul {
+  width: 100%;
+  height: 0.4rem;
+  display: flex;
+}
+#index #ul ul li {
+  width: 0.75rem;
+  height: 0.4rem;
+  line-height: 0.4rem;
+  text-align: center;
+}
+#index #ul ul li a {
+  display: block;
+  width: 100%;
+  height: 0.395rem;
+}
+#index #main {
+  width: 100%;
+}

@@ -1,0 +1,80 @@
+{
+    "errormsg": false,
+    "totals": 7,
+    "curr_page": 1,
+    "pages": 1,
+    "record": [
+        {
+            "id": "12377",
+            "title": "知果果如何创业的（下）",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-06/12377_190X1420622.jpg",
+            "authorname": "刘思思 知果果创始人",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12377&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "539"
+        },
+        {
+            "id": "12376",
+            "title": "知果果如何创业的（上）",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-06/12376_190X1420622.jpg",
+            "authorname": "刘思思 知果果创始人",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12376&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1188"
+        },
+        {
+            "id": "11206",
+            "title": "如何开设公司",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-06/11206_190X1420630.jpg",
+            "authorname": "张爱军 北京市中勤律师事务所主任  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11206&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "8022"
+        },
+        {
+            "id": "11190",
+            "title": "一元钱可以注册一个公司",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-06/11190_190X1420630.jpg",
+            "authorname": "张爱军 北京市中勤律师事务所主任  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11190&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "5683"
+        },
+        {
+            "id": "10842",
+            "title": "商标的使用与保护",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/10842_190X1420704.jpg",
+            "authorname": "段君峰 北京环球君成知识产权代理有限公司创始合伙人   ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10842&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "4154"
+        },
+        {
+            "id": "10790",
+            "title": "公司章程中的那些坑",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-08/10790_190X1420829.jpg",
+            "authorname": "刘辉 北京市邦盛律师事务所合伙人    ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10790&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "4198"
+        },
+        {
+            "id": "10202",
+            "title": "企业如何保护好商业秘密",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2013-05/10202_190X1420502.jpg",
+            "authorname": "赵志东 劳动法专业律师  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10202&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2275"
+        }
+    ],
+    "returnmsg": "",
+    "total": 7
+}

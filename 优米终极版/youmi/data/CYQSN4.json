@@ -1,0 +1,210 @@
+{
+    "errormsg": false,
+    "totals": 26,
+    "curr_page": 1,
+    "pages": 2,
+    "record": [
+        {
+            "id": "11929",
+            "title": "与人沟通要避免答非所问",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-02/11929_190X1420215.jpg",
+            "authorname": "徐科 《赢在中国》第一季选手",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11929&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "18150"
+        },
+        {
+            "id": "11871",
+            "title": "口才和思维逻辑的重要性",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-01/11871_190X1420121.jpg",
+            "authorname": "徐宏峰 《赢在中国》第一季选手 ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11871&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "15374"
+        },
+        {
+            "id": "11597",
+            "title": "面对面的商务谈判",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-09/11597_190X1420923.jpg",
+            "authorname": "贺挺 前中国惠普市场开发经理",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11597&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "4883"
+        },
+        {
+            "id": "11582",
+            "title": "谈判要随机应变谈条件",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-09/11582_190X1420916.jpg",
+            "authorname": "贺挺 前中国惠普市场开发经理",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11582&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "6300"
+        },
+        {
+            "id": "11574",
+            "title": "谈判时要目标明确",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-09/11574_190X1420909.jpg",
+            "authorname": "贺挺 前中国惠普市场开发经理",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11574&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2913"
+        },
+        {
+            "id": "11569",
+            "title": "商务谈判的定义",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-09/11569_190X1420904.jpg",
+            "authorname": "贺挺 前中国惠普市场开发经理",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11569&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "4953"
+        },
+        {
+            "id": "11411",
+            "title": " 怎么递名片：小心得罪人！",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-06/11411_190X1420624.jpg",
+            "authorname": "杨路 雅致人生素质教育集团董事长     ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11411&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "3158"
+        },
+        {
+            "id": "10915",
+            "title": "怎么站最优雅自信？",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/10915_190X1420723.jpg",
+            "authorname": "杨路 雅致人生素质教育集团董事长     ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10915&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "4710"
+        },
+        {
+            "id": "10857",
+            "title": "揭秘《好声音》版权买手",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/10857_190X1420704.jpg",
+            "authorname": "杨媛草  IPCN国际传媒总裁 ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10857&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2730"
+        },
+        {
+            "id": "10808",
+            "title": "金字塔原理让你赢在表达",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-06/10808_190X1420630.jpg",
+            "authorname": "汪洱 麦肯锡《金字塔原理》翻译者 研究者      ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10808&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "17504"
+        },
+        {
+            "id": "10756",
+            "title": "在谈判中如何实现双赢",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/10756_190X1420714.jpg",
+            "authorname": "林伟贤 实践家知识管理集团董事长   ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10756&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1490"
+        },
+        {
+            "id": "10735",
+            "title": "迅速提升谈判能力",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/10735_190X1420714.jpg",
+            "authorname": "林伟贤 实践家知识管理集团董事长   ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10735&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2065"
+        },
+        {
+            "id": "10706",
+            "title": "谈判中如何进行讨价还价",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-06/10706_190X1420627.jpg",
+            "authorname": "林伟贤 实践家知识管理集团董事长   ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10706&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1861"
+        },
+        {
+            "id": "10697",
+            "title": "7秒钟展现商务魅力",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-06/10697_190X1420620.jpg",
+            "authorname": "杨路 雅致人生素质教育集团董事长     ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10697&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "4255"
+        },
+        {
+            "id": "10656",
+            "title": "谈判中如何扮演红脸和白脸",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/10656_190X1420704.jpg",
+            "authorname": "李力刚 谈判与销售训练专家     ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10656&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1911"
+        },
+        {
+            "id": "10618",
+            "title": "谈判中如何收放自如",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/10618_190X1420704.jpg",
+            "authorname": "李力刚 谈判与销售训练专家     ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10618&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "3930"
+        },
+        {
+            "id": "10591",
+            "title": "企业估值：我的公司值多少钱",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/10591_190X1420715.jpg",
+            "authorname": "张焜 漫道资本合伙人   ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10591&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2831"
+        },
+        {
+            "id": "10362",
+            "title": "谈判中如何巧用赞美和激将",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2013-06/10362_190X1420603.jpg",
+            "authorname": "李力刚 谈判与销售训练专家     ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10362&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2814"
+        },
+        {
+            "id": "10329",
+            "title": "三招化解谈判僵局",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2013-05/10329_190X1420528.jpg",
+            "authorname": "李力刚 谈判与销售训练专家     ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10329&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2591"
+        },
+        {
+            "id": "10256",
+            "title": "谈判中如何开局",
+            "grade": "20",
+            "classes": "黄金会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2013-05/10256_190X1420514.jpg",
+            "authorname": "李力刚 谈判与销售训练专家     ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10256&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2121"
+        }
+    ],
+    "returnmsg": "",
+    "total": 20
+}

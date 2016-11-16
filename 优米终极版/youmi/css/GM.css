@@ -1,0 +1,76 @@
+body {
+  background: white;
+}
+.GM .head {
+  height: 0.4rem;
+  line-height: 0.4rem;
+  display: flex;
+  justify-content: space-between;
+  background: white;
+  box-shadow: 0 1px 2px gray ;
+}
+.GM .head span {
+  width: 0.5rem;
+  height: 0.36rem;
+  background: url(../images/public.png) no-repeat;
+  background-clip: border-box;
+  display: inline-block;
+  background-size: auto auto;
+}
+.GM .head i {
+  font-style: normal;
+}
+.GM .head span:first-child {
+  margin-left: 0.15rem;
+  background-position: 0px -2.38rem;
+}
+.GM .head span:last-child {
+  margin-right: 0.15rem;
+  background-position: 0px -2.82rem;
+}
+.GM div {
+  margin-top: 10px;
+  padding: 0 10px;
+}
+.GM div h3 {
+  line-height: 0.4rem;
+}
+.GM div .order {
+  font-size: 0.14rem;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #999999;
+}
+.GM div ul {
+  color: #999999;
+}
+.GM div ul li {
+  line-height: 0.4rem;
+  border-bottom: 1px solid #999999;
+  padding: 5px 0;
+}
+.GM div ul li span {
+  color: black;
+}
+.GM div ul li span i {
+  font-style: normal;
+  color: #FF6600;
+}
+.GM div ul p {
+  text-align: right;
+  line-height: 0.4rem;
+  color: black;
+}
+.GM div ul p span {
+  color: #FF4500;
+}
+.GM div ul p span strong {
+  font-size: 0.2rem;
+}
+.GM div a {
+  display: block;
+  background: #FF4500;
+  color: white;
+  text-align: center;
+  line-height: 0.4rem;
+  border-radius: 10px;
+}

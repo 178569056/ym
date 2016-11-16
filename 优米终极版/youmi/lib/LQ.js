@@ -1,0 +1,11 @@
+app.controller('LQCtrl',['$scope',function($scope){
+	//主页的头部隐藏与显示
+	$('#header').hide();
+	$('#ul').hide();
+	$('.home').on('click',function(){
+		$('#header').show();
+		$('#ul').show();
+		$('#LQ').hide();
+		$('#main').show;
+	})
+}])

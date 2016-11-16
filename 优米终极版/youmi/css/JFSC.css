@@ -1,0 +1,406 @@
+.JFSC-jfsc .header {
+  width: 100%;
+  height: 0.48rem;
+  line-height: 0.48rem;
+  text-align: center;
+  color: white;
+  font-size: 0.2rem;
+  background-image: -webkit-linear-gradient(45deg, #ff9900, #ff6600);
+  position: relative;
+}
+.JFSC-jfsc .header span {
+  color: white;
+}
+.JFSC-jfsc .header a:first-child span {
+  float: left;
+  width: 0.2rem;
+  height: 0.2rem;
+  border: #fff solid;
+  border-width: 0 0 2px 2px;
+  transform: rotate(45deg);
+  margin: 0.15rem 0 0 0.15rem;
+}
+.JFSC-jfsc .header a:nth-child(2) span {
+  width: 0.3rem;
+  height: 0.42rem;
+  display: block;
+  float: right;
+  font-size: 0.14rem;
+  background: url(../img/publicico.png) no-repeat center center;
+  background-size: cover;
+  background-position: 0 -1.15rem;
+  margin: 0.1rem 0.1rem 0 0;
+}
+.JFSC-jfsc .header .daohang {
+  position: absolute;
+  top: 0.48rem;
+  right: 0;
+  width: 0.9rem;
+  height: 1.5rem;
+  background: #ff6f0e;
+  z-index: 9;
+  display: none;
+}
+.JFSC-jfsc .header .daohang li {
+  width: 100%;
+  height: 0.5rem;
+  line-height: 0.5rem;
+  border-bottom: 1px solid white;
+  color: white;
+  font-size: 0.14rem;
+}
+
+
+.JFSC-yonghu{
+	height: 1.08rem;
+	background-color: white;
+font-size: 0;
+
+
+
+
+}
+.JFSC-yonghu>div{
+ vertical-align: bottom;
+ padding-top: 0.2rem;
+}
+.JFSC-yonghu1{
+width: 15%;
+height: 1.08rem;
+
+display: inline-block;
+
+
+
+
+}
+.JFSC-yonghu1>img{
+	width: 0.4rem;
+	height: 0.4rem;
+	border-radius: 50%; 
+	margin-left: 0.07rem;
+
+
+}
+.JFSC-yonghu2{
+width: 55%;
+height: 1.08rem;
+
+display: inline-block;
+
+
+
+
+}
+.JFSC-yonghu2>p{
+	height: 0.3rem;
+
+
+
+
+
+}
+.JFSC-yonghu2-1{
+
+	font-size: 0.2rem;
+	height: 0.3rem;
+	line-height: 0.3rem;
+	margin-right: 0.1rem;
+vertical-align: bottom;
+
+
+
+
+}
+.JFSC-yonghu2-2{
+	height: 0.3rem;
+	line-height: 0.3rem;
+	vertical-align: bottom;
+	color: #999999;
+
+
+
+
+
+
+}
+.JFSC-yonghu2-11{
+	height: 0.3rem;
+	line-height: 0.3rem;
+		color: #999999;
+
+
+
+
+}
+.JFSC-yonghu2-11>span{
+	color: #ff6600;
+}
+.JFSC-yonghu3{
+width: 30%;
+height: 1.08rem;
+
+display: inline-block;
+
+
+
+}
+.JFSC-yonghu3>div{
+
+	width: 0.9rem;
+	height: 0.32rem;
+	background-color: #ff6600;
+	color: white;
+	font-size: 0.14rem;
+	line-height: 0.32rem;
+	border-radius: 0.05rem; 
+	text-align: center;
+	margin-top: -0.6rem;
+}
+.JFSC-yonghu3>a{
+
+color: #ff6600;
+width: 100%;
+text-align: center;
+margin-top: 0.1rem;
+
+
+}
+.JFSC-shang{
+	height: 0.5rem;
+	width: 100%;
+	background-color: white;
+	margin-top: 0.2rem;
+	font-size: 0;
+	padding-top: 0.13rem;
+
+
+
+
+}
+.JFSC-shang>span{
+width: 50%;
+height: 0.2rem;
+line-height: 0.2rem;
+text-align: center;
+font-size: 0.2rem;
+font-weight: 700;
+
+
+
+}
+.JFSC-shang>span:first-child{
+	border-right: solid 2px #999999; 
+
+
+}
+.JFSC-hit{
+	font-size: 0;
+}
+.JFSC-hit1{
+	display: inline-block;
+	vertical-align: bottom;
+	width: 50%;
+	text-align: center;
+	font-size: 0;
+
+
+
+
+
+
+}
+.JFSC-hit1>span{
+	width: 55%;
+	border: 1px solid orange
+
+}
+.JFSC-hit2{
+	display: inline-block;
+	vertical-align: bottom;
+		width: 50%;
+		text-align: center;
+		font-size: 0;
+
+	
+
+
+	
+
+
+}
+.JFSC-hit2>span{
+	width: 55%;
+	border: 1px solid orange
+
+}
+
+.JFSC-list{
+	padding-top: 0.1rem;
+	padding-right: 0.1rem;
+	padding-left: 0.1rem;
+	padding-bottom: 0.1rem;
+	background-color: white;
+
+}
+.JFSC-list>ul{
+	font-size: 0;
+}
+.JFSC-list>ul>li{
+	width: 50%;
+	display: inline-block;
+	padding-right: 0.1rem;
+	padding-left: 0.1rem;
+
+
+
+
+
+
+
+}
+.img>img{
+	width: 100%;
+}
+.JFSC-list>ul>li>a>h3{
+
+	margin-top: 0.1rem;
+
+
+
+}
+.JFSC-list>ul>li>a>p{
+
+	margin-top: 0.1rem;
+
+
+
+}
+
+.JFSC-foot{
+
+	margin-top: 0.12rem;
+	background-color: white;
+	height: 1rem;
+
+
+}
+.JFSC-foot1{
+
+	height: 1rem;
+		background-color: #f4f4f4;
+		text-align: center;
+		padding-top: 0.4rem;
+
+
+
+}
+
+
+.JFSC-foot1>div{
+	
+	width:1.2rem; 
+
+
+
+
+font-size: 0.16rem;
+height: 0.22rem;
+line-height: 0.28rem;
+
+
+
+
+
+}
+.JFSC-foot1>div>span{
+	background: url(http://i1.umivi.net/v/static/2015/youmiwap/images/public/publicico.png) -0.08rem -6.23rem  no-repeat ;
+
+	width: 0.33rem ;
+	height: 0.28rem;
+	vertical-align: bottom;
+
+
+
+
+
+}
+.JFSC-foot>div{ 
+	display: inline-block;
+	width: 50%;
+	height: 0.28rem;
+	margin-top: 0.1rem;
+	padding-left: 0.15rem;
+
+
+
+
+
+
+}
+.JFSC-foot{
+	padding-top: 0.1rem;
+	padding-bottom: 0.2rem;
+	font-size: 0;
+
+
+}
+.JFSC-foot>div>span:nth-child(1){
+	width: 0.33rem ;
+	height: 0.28rem;
+
+
+
+
+
+
+}
+
+.JFSC-foot>div>span{
+	vertical-align: bottom;
+
+}
+.JFSC-foot>div>span:nth-child(2){
+	height: 0.28rem;
+	line-height: 0.28rem;
+	font-size: 0.14rem;
+
+
+}
+
+.JFSC-sp1{
+	background: url(http://i1.umivi.net/v/static/2015/youmiwap/images/public/publicico.png) -0.08rem -421px  no-repeat ;
+
+
+}
+.JFSC-sp2{
+	background: url(http://i1.umivi.net/v/static/2015/youmiwap/images/public/publicico.png) -0.08rem -470px  no-repeat ;
+
+
+}
+.JFSC-sp3{
+	background: url(http://i1.umivi.net/v/static/2015/youmiwap/images/public/publicico.png) -0.08rem -519px  no-repeat ;
+
+
+}
+.JFSC-sp4{
+	background: url(http://i1.umivi.net/v/static/2015/youmiwap/images/public/publicico.png) -0.08rem -570px  no-repeat ;
+
+
+}
+.JFSC-foot2{
+	width: 100%;
+	height: 0.7rem;
+	font-size: 0.2rem;
+	line-height: 0.7rem;
+	text-align: center;
+	color: orange;
+	background-color: white;
+	margin-top: 0.1rem;
+
+
+
+
+}
+
+

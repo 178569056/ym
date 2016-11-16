@@ -1,0 +1,455 @@
+{
+    "total": 50,
+    "record": [
+        {
+            "id": "11387",
+            "title": "如何用微信打造人脉",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-06/11387_190X1420604.jpg",
+            "grade": "20",
+            "authorname": "肖森舟 中国微商十大领袖",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11387&frm=rank_salenum"
+        },
+        {
+            "id": "11641",
+            "title": "杜子建教你4秒留住用户",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-12/11641_190X1421215.jpg",
+            "grade": "20",
+            "authorname": "杜子建 华艺传媒首席顾问",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11641&frm=rank_salenum"
+        },
+        {
+            "id": "10754",
+            "title": "网络推广免费六招",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/10754_190X1420704.jpg",
+            "grade": "20",
+            "authorname": "张有为 上海奥鹏企业管理咨询有限公司创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10754&frm=rank_salenum"
+        },
+        {
+            "id": "11110",
+            "title": "微信卖桂花鸭月入50万",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/11110_190X1420703.jpg",
+            "grade": "20",
+            "authorname": "张自创 南京么么文化传播有限公司CEO",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11110&frm=rank_salenum"
+        },
+        {
+            "id": "10092",
+            "title": "雷军：创业第一课",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-02/10092_190X1420226.jpg",
+            "grade": "20",
+            "authorname": "雷军 小米科技创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10092&frm=rank_salenum"
+        },
+        {
+            "id": "260",
+            "title": "企业家精神重振与电商未来",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/260_190X1420710.jpg",
+            "grade": "20",
+            "authorname": "马云 阿里巴巴集团董事局主席",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=260&frm=rank_salenum"
+        },
+        {
+            "id": "11704",
+            "title": "如何拥有终身记忆力",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-11/11704_190X1421111.jpg",
+            "grade": "20",
+            "authorname": "卢菲菲 体验式全脑记忆法创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11704&frm=rank_salenum"
+        },
+        {
+            "id": "280",
+            "title": "电话销售实战：业绩打出来",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-08/280_190X1420813.jpg",
+            "grade": "20",
+            "authorname": "孙路弘 职业培训师",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=280&frm=rank_salenum"
+        },
+        {
+            "id": "10808",
+            "title": "金字塔原理让你赢在表达",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-06/10808_190X1420630.jpg",
+            "grade": "20",
+            "authorname": "汪洱 麦肯锡《金字塔原理》翻译者",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10808&frm=rank_salenum"
+        },
+        {
+            "id": "12036",
+            "title": "如何写商业计划书",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-04/12036_190X1420429.jpg",
+            "grade": "20",
+            "authorname": "汤婧平 和君咨询集团合伙人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12036&frm=rank_salenum"
+        },
+        {
+            "id": "11430",
+            "title": "O2O老枝花卤融资千万元",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-04/11430_190X1420403.jpg",
+            "grade": "20",
+            "authorname": "高臻 老枝花卤联合创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11430&frm=rank_salenum"
+        },
+        {
+            "id": "10755",
+            "title": "快速带出冠军团队",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-10/10755_190X1421016.jpg",
+            "grade": "20",
+            "authorname": "容易 优势管理模式创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10755&frm=rank_salenum"
+        },
+        {
+            "id": "11086",
+            "title": "500强都用得到的财务课",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-08/11086_190X1420829.jpg",
+            "grade": "20",
+            "authorname": "蔡丽煌 中华人民共和国会计职业大典特聘专家",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11086&frm=rank_salenum"
+        },
+        {
+            "id": "10758",
+            "title": "职场PPT设计与美化速成",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/10758_190X1420724.jpg",
+            "grade": "20",
+            "authorname": "李宝运 PPT高级讲师",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10758&frm=rank_salenum"
+        },
+        {
+            "id": "378",
+            "title": "格力掌门董明珠的管理智慧",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-05/378_190X1420521.jpg",
+            "grade": "20",
+            "authorname": "董明珠 珠海格力集团有限公司董事长",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=378&frm=rank_salenum"
+        },
+        {
+            "id": "11206",
+            "title": "如何开设公司",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-06/11206_190X1420630.jpg",
+            "grade": "20",
+            "authorname": "张爱军 北京市中勤律师事务所主任",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11206&frm=rank_salenum"
+        },
+        {
+            "id": "10468",
+            "title": "把煎饼卖到4千万估值",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-08/10468_190X1420812.jpg",
+            "grade": "20",
+            "authorname": "赫畅 黄太吉传统美食创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10468&frm=rank_salenum"
+        },
+        {
+            "id": "10714",
+            "title": "淘宝开店如何选品",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-08/10714_190X1420807.jpg",
+            "grade": "20",
+            "authorname": "高学争 迅途网商俱乐部创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10714&frm=rank_salenum"
+        },
+        {
+            "id": "213",
+            "title": "跟着史玉柱学营销",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-05/213_190X1420530.jpg",
+            "grade": "30",
+            "authorname": "史玉柱 巨人网络集团有限公司董事长",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=213&frm=rank_salenum"
+        },
+        {
+            "id": "204",
+            "title": "成功销售八大关键步骤",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-08/204_190X1420815.jpg",
+            "grade": "20",
+            "authorname": "付遥 实战派营销专家",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=204&frm=rank_salenum"
+        },
+        {
+            "id": "10888",
+            "title": "开咖啡馆的12个细节",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/10888_190X1420704.jpg",
+            "grade": "20",
+            "authorname": "庄崧冽 雕刻时光咖啡馆创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10888&frm=rank_salenum"
+        },
+        {
+            "id": "10781",
+            "title": "思维导图应用速成",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-06/10781_190X1420627.jpg",
+            "grade": "20",
+            "authorname": "蔡劲松 思维魔方创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10781&frm=rank_salenum"
+        },
+        {
+            "id": "152",
+            "title": "成长型企业股权激励方案",
+            "image": "http://i1.umivi.net/v/album/listimage/2012-09/152_190X142.jpg",
+            "grade": "30",
+            "authorname": "郭凡生 慧聪国际董事局主席",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=152&frm=rank_salenum"
+        },
+        {
+            "id": "12234",
+            "title": "揭秘阿里销售的“铁军文化”",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-10/12234_190X1421020.jpg",
+            "grade": "30",
+            "authorname": "李立恒 车蚂蚁创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12234&frm=rank_salenum"
+        },
+        {
+            "id": "11674",
+            "title": "揭秘快速阅读的核心技巧",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-10/11674_190X1421030.jpg",
+            "grade": "20",
+            "authorname": "卢菲菲 体验式全脑记忆法创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11674&frm=rank_salenum"
+        },
+        {
+            "id": "10684",
+            "title": "轻松玩转职场excel",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/10684_190X1420731.jpg",
+            "grade": "20",
+            "authorname": "陈瀚（大田） 睿毅教育创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10684&frm=rank_salenum"
+        },
+        {
+            "id": "12281",
+            "title": "公司组织架构和战略方向",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-02/12281_190X1420202.jpg",
+            "grade": "30",
+            "authorname": "王利芬 优米网创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12281&frm=rank_salenum"
+        },
+        {
+            "id": "10832",
+            "title": "顾问式销售 激发客户需求",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-08/10832_190X1420826.jpg",
+            "grade": "20",
+            "authorname": "付遥 实战派营销专家",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10832&frm=rank_salenum"
+        },
+        {
+            "id": "11190",
+            "title": "一元钱可以注册一个公司",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-06/11190_190X1420630.jpg",
+            "grade": "20",
+            "authorname": "张爱军 北京市中勤律师事务所主任",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11190&frm=rank_salenum"
+        },
+        {
+            "id": "12265",
+            "title": "王利芬对话名创优品叶国富",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-11/12265_190X1421120.jpg",
+            "grade": "30",
+            "authorname": "叶国富 名创优品联合创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12265&frm=rank_salenum"
+        },
+        {
+            "id": "10622",
+            "title": "小烧烤摊的O2O生意",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-08/10622_190X1420813.jpg",
+            "grade": "20",
+            "authorname": "李烨 原始烧烤创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10622&frm=rank_salenum"
+        },
+        {
+            "id": "10818",
+            "title": "超级高效 番茄工作法",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-08/10818_190X1420801.jpg",
+            "grade": "20",
+            "authorname": "邹鑫 时间管理讲师",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10818&frm=rank_salenum"
+        },
+        {
+            "id": "11739",
+            "title": "O2O运营怎么做",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-12/11739_190X1421215.jpg",
+            "grade": "20",
+            "authorname": "叶开 汉拓科技创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11739&frm=rank_salenum"
+        },
+        {
+            "id": "11252",
+            "title": "O2O卖哈密瓜日销2万",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-06/11252_190X1420627.jpg",
+            "grade": "20",
+            "authorname": "王培亚  青岛云际网络创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11252&frm=rank_salenum"
+        },
+        {
+            "id": "10639",
+            "title": "如何快速打造爆款",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/10639_190X1420704.jpg",
+            "grade": "20",
+            "authorname": "林德壮 网商动力运营专家",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10639&frm=rank_salenum"
+        },
+        {
+            "id": "12219",
+            "title": "销售人才的招聘和晋升",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-09/12219_190X1420930.jpg",
+            "grade": "30",
+            "authorname": "李立恒 车蚂蚁创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12219&frm=rank_salenum"
+        },
+        {
+            "id": "11684",
+            "title": "用电商做粮食",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-12/11684_190X1421215.jpg",
+            "grade": "20",
+            "authorname": "王安平 谷绿农品创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11684&frm=rank_salenum"
+        },
+        {
+            "id": "12238",
+            "title": "刷爆朋友圈的广告宝典",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-10/12238_190X1421026.jpg",
+            "grade": "30",
+            "authorname": "王正新 NPLUS合伙人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12238&frm=rank_salenum"
+        },
+        {
+            "id": "10717",
+            "title": "职场PPT实战达人速成记",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-07/10717_190X1420704.jpg",
+            "grade": "20",
+            "authorname": "周刚 微软资深培训师",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10717&frm=rank_salenum"
+        },
+        {
+            "id": "12307",
+            "title": "创业选对行业很重要",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-03/12307_190X1420318.jpg",
+            "grade": "30",
+            "authorname": "兰世立 中国东星集团有限公司董事局主席",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12307&frm=rank_salenum"
+        },
+        {
+            "id": "11306",
+            "title": "不懂创新思维 别谈粉丝经济",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-04/11306_190X1420428.jpg",
+            "grade": "20",
+            "authorname": "王不凡 微营销专家",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11306&frm=rank_salenum"
+        },
+        {
+            "id": "11248",
+            "title": "微信卖烧烤 月营业额10万",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-06/11248_190X1420627.jpg",
+            "grade": "20",
+            "authorname": "王铭卫 阿虎烧烤创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11248&frm=rank_salenum"
+        },
+        {
+            "id": "10494",
+            "title": "传统行业的互联网新生",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-08/10494_190X1420811.jpg",
+            "grade": "20",
+            "authorname": "赫畅 黄太吉传统美食创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10494&frm=rank_salenum"
+        },
+        {
+            "id": "12090",
+            "title": "风口下的生活服务",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-06/12090_190X1420609.jpg",
+            "grade": "30",
+            "authorname": "王利芬 优米网创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12090&frm=rank_salenum"
+        },
+        {
+            "id": "11751",
+            "title": "将卖点变成买点",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-12/11751_190X1421210.jpg",
+            "grade": "20",
+            "authorname": "张有为 上海奥鹏企业管理咨询有限公司创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11751&frm=rank_salenum"
+        },
+        {
+            "id": "10605",
+            "title": "案例启示录：创业中的陷阱",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-02/10605_190X1420226.jpg",
+            "grade": "20",
+            "authorname": "查立 乾龙创投创始合伙人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10605&frm=rank_salenum"
+        },
+        {
+            "id": "10315",
+            "title": "微信入门：运营与商机",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-08/10315_190X1420815.jpg",
+            "grade": "1",
+            "authorname": "管鹏 皮皮精灵助理总裁",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=10315&frm=rank_salenum"
+        },
+        {
+            "id": "11213",
+            "title": "90后用小米模式做安全套",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-12/11213_190X1421205.jpg",
+            "grade": "20",
+            "authorname": "刘克楠 大象安全套创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11213&frm=rank_salenum"
+        },
+        {
+            "id": "11643",
+            "title": "用财务知识看盈利",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-10/11643_190X1421023.jpg",
+            "grade": "20",
+            "authorname": "闫静 和顺中泽首席财务讲师",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11643&frm=rank_salenum"
+        },
+        {
+            "id": "12153",
+            "title": "如何赚得第一个150万",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-07/12153_190X1420729.jpg",
+            "grade": "30",
+            "authorname": "牟家和 知家股份创始人",
+            "classes": "",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12153&frm=rank_salenum"
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+.YBY-xuan{
+    width: 100%;
+	height:0.89rem; 
+	text-align: center;
+	background-color: #eeeeee;
+
+
+}
+.YBY-xuan>span:nth-child(1){
+
+	
+	height: 0.89rem;
+	line-height: 0.89rem;
+	font-size: 0.16rem;
+	vertical-align: bottom; 
+
+
+
+
+}
+
+.YBY-list{
+	width:100%;
+	padding-left: 0.1rem;
+	padding-right: 0.1rem;
+
+
+
+
+}
+.YBY-list1>li{
+	padding-top:0.27rem;
+	height: 1.34rem;
+	font-size: 0;
+	border-bottom: 1px solid #999; 
+
+}
+.YBY-list1>li>img{
+
+	height: 1.04rem;
+	width: 1.18rem;
+	vertical-align: top;
+}
+.YBY-list1>li>div{
+	display: inline-block;
+	height: 1.04rem;
+    vertical-align: top;
+    padding-left: 0.2rem;
+    font-size: 0;
+    width: 65%;
+
+
+
+}
+.YBY-list1>li>div>h3{
+       font-size: 0.15rem;
+
+
+
+}
+.YBY-list1>li>div>p{
+       font-size: 0.14rem;
+       margin-top: 0.1rem;
+       overflow: hidden;
+
+
+
+
+}
+
+.YBY-jiazai{
+	font-size: 0.2rem;
+	text-align: center;
+	color: green;
+	height: 0.9rem;
+	line-height: 0.9rem;
+	border-bottom:1px solid #999; 
+
+}
+
+
+
+.YBY-phone{
+	text-align: center;
+	height: 0.9rem;
+	width: 100%;
+background-color: #f3f3f3;
+padding-top: 0.3rem;
+
+
+
+}
+.YBY-phone>span:first-child{
+		width: 0.33rem ;
+	height: 0.28rem;
+		background: url(http://i1.umivi.net/v/static/2015/youmiwap/images/public/publicico.png) -0.08rem -421px  no-repeat ;
+		vertical-align: top;
+
+
+}
+.YBY-phone>span:nth-child(2){
+	font-size: 0.2rem;
+	height: 0.28rem;
+	vertical-align: top;
+		
+
+
+
+}
+
+.YBY-foot{
+	font-size: 0.2rem;
+	height: 0.9rem;
+	width: 100%;
+	text-align: center;
+	padding-top: 0.3rem;
+}
+
+/*.............................................*/
+.YBY-zhezhao{
+	position: fixed;
+	top:0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: #666666;
+	opacity:0.5; 
+	display: none;
+
+
+
+}
+
+.YBY-jiao1{
+	
+	border-left: 10px solid #eeeeee  ;  
+	border-right: 10px solid #eeeeee  ;  
+	border-bottom: 10px solid green  ;
+	border-top: 10px solid #eeeeee ;
+	 vertical-align: bottom; 
+	 margin-left: 0.1rem; 
+margin-bottom: 0.4rem;
+
+}
+
+.YBY-choice{
+    width: 100%;
+	height:0.89rem; 
+	text-align: center;
+	background-color: #eeeeee;
+
+
+
+
+}
+.YBY-choice>span:nth-child(1){
+
+
+	
+	height: 0.89rem;
+	line-height: 0.89rem;
+	font-size: 0.16rem;
+	vertical-align: bottom;
+	color: green; 
+
+
+
+
+}
+.YBY-choice1{
+	width: 100%;
+
+}
+.YBY-choice1>li{
+
+	height: 0.8rem;
+	width: 100%;
+	background-color: white;
+	
+
+	font-size: 0rem;
+	padding-left: 0.2rem;
+
+
+
+
+
+
+}
+.YBY-choice1>li>span{
+	font-size: 0.16rem;
+	height: 0.8rem;
+	line-height: 0.8rem;
+
+
+
+
+
+}
+.YBY-choice1>li>span:nth-child(2){
+	float: right;
+	margin-right:0.2rem; 
+	
+	font-weight: 700;
+	font-size: 0.3rem;
+
+}
+.YBY-zhezhao1{
+   width: 100%;
+   position: fixed;
+   top:0;
+   left: 0;
+   display: none;
+
+}

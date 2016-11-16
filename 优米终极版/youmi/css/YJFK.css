@@ -1,0 +1,244 @@
+.YJFK-yjfk .header {
+  width: 100%;
+  height: 0.48rem;
+  line-height: 0.48rem;
+  text-align: center;
+  color: white;
+  font-size: 0.2rem;
+  background-image: -webkit-linear-gradient(45deg, #ff9900, #ff6600);
+  position: relative;
+}
+.YJFK-yjfk .header span {
+  color: white;
+}
+.YJFK-yjfk .header a:first-child span {
+  float: left;
+  width: 0.2rem;
+  height: 0.2rem;
+  border: #fff solid;
+  border-width: 0 0 2px 2px;
+  transform: rotate(45deg);
+  margin: 0.15rem 0 0 0.15rem;
+}
+.YJFK-yjfk .header a:nth-child(2) span {
+  width: 0.3rem;
+  height: 0.42rem;
+  display: block;
+  float: right;
+  font-size: 0.14rem;
+  background: url(../img/publicico.png) no-repeat center center;
+  background-size: cover;
+  background-position: 0 -1.15rem;
+  margin: 0.1rem 0.1rem 0 0;
+}
+.YJFK-yjfk .header .daohang {
+  position: absolute;
+  top: 0.48rem;
+  right: 0;
+  width: 0.9rem;
+  height: 1.5rem;
+  background: #ff6f0e;
+  z-index: 9;
+  display: none;
+}
+.YJFK-yjfk .header .daohang li {
+  width: 100%;
+  height: 0.5rem;
+  line-height: 0.5rem;
+  border-bottom: 1px solid white;
+  color: white;
+  font-size: 0.14rem;
+}
+
+
+.YJFK-feedback{
+	width: 100%;
+	height: 4.16rem;
+	background-color: white;
+	padding-top: 0.4rem;
+	padding-left: 0.1rem;
+
+
+
+}
+.YJFK-feedback>ul>li:nth-child(1){
+	width:100%;
+	height: 0.6rem;
+}
+.YJFK-feedback>ul>li:nth-child(1)>span:nth-child(2)>input{
+	width: 3rem;
+	height: 0.35rem;
+	padding-left: 0.1rem;
+	border: 1px solid gray;
+}
+.YJFK-feedback>ul>li:nth-child(1)>span:nth-child(1){
+	font-size: 0.12rem;
+	color: #86c501;
+
+
+
+
+}
+.YJFK-feedback>ul>li:nth-child(2)>span:nth-child(1){
+	font-size: 0.12rem;
+		
+		color: #86c501;
+
+
+
+}
+.YJFK-feedback>ul>li:nth-child(2){
+	width:100%;
+	height: 1.5rem;
+
+
+}
+.YJFK-feedback>ul>li:nth-child(2)>span{
+	vertical-align: top;
+
+}
+.YJFK-feedback>ul>li:nth-child(2)>span:nth-child(2)>textarea{
+	width: 3rem;
+	height: 1.5rem;
+	padding-left: 0.1rem;
+		padding-top: 0.1rem;
+
+
+
+
+}
+.YJFK-feedback>ul>li:nth-child(3)>p{
+     
+     color: #86c501;
+     height: 0.6rem;
+     text-align: center;
+     line-height: 0.6rem;
+
+
+
+}
+.YJFK-feedback>ul>li:nth-child(4)>input{
+	width: 1.2rem;
+	height: 0.3rem;
+	background-color: #86c501;
+	color: white;
+	border: 1px solid #86c501;
+	border-radius: 0.05rem;
+
+}
+.YJFK-feedback>ul>li:nth-child(4){
+	text-align: center;
+}
+
+
+.YJFK-foot{
+
+	margin-top: 0.12rem;
+	background-color: white;
+	height: 1rem;
+
+
+}
+.YJFK-foot1{
+
+	height: 1rem;
+		background-color: #f4f4f4;
+		text-align: center;
+		padding-top: 0.4rem;
+
+
+
+}
+
+
+.YJFK-foot1>div{
+	
+	width:1.2rem; 
+
+
+
+
+font-size: 0.16rem;
+height: 0.22rem;
+line-height: 0.28rem;
+
+
+
+
+
+}
+.YJFK-foot1>div>span{
+	background: url(http://i1.umivi.net/v/static/2015/youmiwap/images/public/publicico.png) -0.08rem -6.23rem  no-repeat ;
+
+	width: 0.33rem ;
+	height: 0.28rem;
+	vertical-align: bottom;
+
+
+
+
+
+}
+.YJFK-foot>div{ 
+	display: inline-block;
+	width: 50%;
+	height: 0.28rem;
+	margin-top: 0.1rem;
+	padding-left: 0.15rem;
+
+
+
+
+
+
+}
+.YJFK-foot{
+	padding-top: 0.1rem;
+	padding-bottom: 0.2rem;
+	font-size: 0;
+
+
+}
+.YJFK-foot>div>span:nth-child(1){
+	width: 0.33rem ;
+	height: 0.28rem;
+
+
+
+
+
+
+}
+
+.YJFK-foot>div>span{
+	vertical-align: bottom;
+
+}
+.YJFK-foot>div>span:nth-child(2){
+	height: 0.28rem;
+	line-height: 0.28rem;
+	font-size: 0.14rem;
+
+
+}
+
+.YJFK-sp1{
+	background: url(http://i1.umivi.net/v/static/2015/youmiwap/images/public/publicico.png) -0.08rem -421px  no-repeat ;
+
+
+}
+.YJFK-sp2{
+	background: url(http://i1.umivi.net/v/static/2015/youmiwap/images/public/publicico.png) -0.08rem -470px  no-repeat ;
+
+
+}
+.YJFK-sp3{
+	background: url(http://i1.umivi.net/v/static/2015/youmiwap/images/public/publicico.png) -0.08rem -519px  no-repeat ;
+
+
+}
+.YJFK-sp4{
+	background: url(http://i1.umivi.net/v/static/2015/youmiwap/images/public/publicico.png) -0.08rem -570px  no-repeat ;
+
+
+}
