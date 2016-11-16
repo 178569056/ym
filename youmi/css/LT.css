@@ -1,0 +1,16 @@
+canvas {
+  cursor: crosshair;
+  display: block;
+  left: 0;
+  position: fixed;
+  top: 0.9219rem;
+  background: black;
+}
+h1 {
+  z-index: 9999;
+  color: white;
+  position: fixed;
+  top: 2rem;
+  left: 1rem;
+  font-size: 3em;
+}

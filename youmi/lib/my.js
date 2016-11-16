@@ -1,0 +1,18 @@
+app.controller('myCtrl',['$scope',function($scope){
+	$('#name').html(localStorage.Name);
+	//主页的头部隐藏与显示
+	$('#header').hide();
+	$('#ul').hide();
+	$('.out').on('click',function(){
+		$('#header').show();
+		$('#ul').show();
+		$('#landing').hide();
+		$('#main').show;
+	})
+	$('.fanhui').on('click',function(){
+		$('#header').show();
+		$('#ul').show();
+		$('#landing').hide();
+		$('#main').show;
+	})
+}])

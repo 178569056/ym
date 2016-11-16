@@ -1,0 +1,808 @@
+.HOME .swiper-container {
+  width: 100%;
+  height: 1.7578rem;
+  font-size: 0.14rem;
+  overflow: hidden;
+  background: white;
+  margin-bottom: 0.15rem;
+}
+.HOME .swiper-container img {
+  width: 100%;
+  height: 1.7578rem;
+  border: none;
+}
+.HOME .recommend {
+  width: 100%;
+  height: 3.4084rem;
+  background: white;
+  padding: 0.1rem;
+  margin-bottom: 0.15rem;
+}
+.HOME .recommend .tuijian {
+  width: 100%;
+  height: 0.48rem;
+  display: flex;
+}
+.HOME .recommend .tuijian h4 {
+  width: 0.75rem;
+  height: 0.48rem;
+  float: left;
+}
+.HOME .recommend .tuijian h4 span {
+  display: block;
+  width: 0.5rem;
+  height: 0.2rem;
+  margin: 0.15rem 0 0 0;
+  text-align: right;
+  border-left: 5px solid red;
+}
+.HOME .recommend .tuijian h5 {
+  width: 100%;
+  height: 0.48rem;
+  line-height: 0.48rem;
+  float: left;
+  text-align: right;
+}
+.HOME .recommend .tuijian h5 a {
+  margin-right: 0.1rem;
+  color: gainsboro;
+}
+.HOME .recommend .list1 {
+  width: 100%;
+  height: 2.82rem;
+}
+.HOME .recommend .list1 ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.HOME .recommend .list1 ul div {
+  width: 100%;
+  height: 1rem;
+  position: relative;
+}
+.HOME .recommend .list1 ul div span {
+  font-size: 0.13rem;
+}
+.HOME .recommend .list1 ul div span:first-child {
+  display: block;
+  width: 0.66rem;
+  height: 0.18rem;
+  line-height: 0.18rem;
+  text-align: center;
+  background: #f90;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.HOME .recommend .list1 ul div span:nth-child(2) {
+  display: block;
+  width: 1.6rem;
+  height: 0.14rem;
+  line-height: 0.14rem;
+  -webkit-tap-highlight-color: rgba(255, 255, 0, 0);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.HOME .recommend .list1 ul li {
+  width: 50%;
+  height: 1.25rem;
+}
+.HOME .recommend .list1 ul li h4 {
+  width: 100%;
+  height: 0.25rem;
+  line-height: 0.25rem;
+  background: white;
+  margin-top: 0.1rem;
+  font-weight: 600;
+  font-size: 0.15rem;
+}
+.HOME .recommend .list1 ul li:nth-child(1),
+.HOME .recommend .list1 ul li:nth-child(2) {
+  margin-bottom: 0.15rem;
+}
+.HOME .recommend .list1 ul li:nth-child(1) div {
+  background: url(../img/05.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .recommend .list1 ul li:nth-child(2) div {
+  background: url(../img/06.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .recommend .list1 ul li:nth-child(3) div {
+  background: url(../img/07.png) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .recommend .list1 ul li:nth-child(4) div {
+  background: url(../img/08.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .Guess_you_like {
+  width: 100%;
+  height: 3.4084rem;
+  background: white;
+  padding: 0.1rem;
+  margin-bottom: 0.15rem;
+}
+.HOME .Guess_you_like .Lovely {
+  width: 100%;
+  height: 0.48rem;
+  display: flex;
+}
+.HOME .Guess_you_like .Lovely h4 {
+  width: 0.75rem;
+  height: 0.48rem;
+  float: left;
+}
+.HOME .Guess_you_like .Lovely h4 span {
+  display: block;
+  width: 0.8rem;
+  height: 0.2rem;
+  margin: 0.15rem 0 0 0;
+  text-align: right;
+  border-left: 5px solid red;
+}
+.HOME .Guess_you_like .Lovely h5 {
+  width: 100%;
+  height: 0.48rem;
+  line-height: 0.48rem;
+  float: left;
+  text-align: right;
+}
+.HOME .Guess_you_like .Lovely h5 a {
+  margin-right: 0.1rem;
+  color: gainsboro;
+}
+.HOME .Guess_you_like .list2 {
+  width: 100%;
+  height: 2.82rem;
+}
+.HOME .Guess_you_like .list2 ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.HOME .Guess_you_like .list2 ul div {
+  width: 100%;
+  height: 1rem;
+  position: relative;
+}
+.HOME .Guess_you_like .list2 ul div span {
+  font-size: 0.13rem;
+}
+.HOME .Guess_you_like .list2 ul div span:first-child {
+  display: block;
+  width: 0.66rem;
+  height: 0.18rem;
+  line-height: 0.18rem;
+  text-align: center;
+  background: #f90;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.HOME .Guess_you_like .list2 ul div span:nth-child(2) {
+  display: block;
+  width: 1.6rem;
+  height: 0.14rem;
+  line-height: 0.14rem;
+  -webkit-tap-highlight-color: rgba(255, 255, 0, 0);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.HOME .Guess_you_like .list2 ul li {
+  width: 50%;
+  height: 1.25rem;
+}
+.HOME .Guess_you_like .list2 ul li h4 {
+  width: 100%;
+  height: 0.25rem;
+  line-height: 0.25rem;
+  background: white;
+  margin-top: 0.1rem;
+  font-weight: 600;
+  font-size: 0.15rem;
+}
+.HOME .Guess_you_like .list2 ul li:nth-child(1),
+.HOME .Guess_you_like .list2 ul li:nth-child(2) {
+  margin-bottom: 0.15rem;
+}
+.HOME .Guess_you_like .list2 ul li:nth-child(1) div {
+  background: url(../img/09.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .Guess_you_like .list2 ul li:nth-child(2) div {
+  background: url(../img/11.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .Guess_you_like .list2 ul li:nth-child(3) div {
+  background: url(../img/12.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .Guess_you_like .list2 ul li:nth-child(4) div {
+  background: url(../img/10.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .chaung_ye {
+  width: 100%;
+  height: 3.4084rem;
+  background: white;
+  padding: 0.1rem;
+  margin-bottom: 0.15rem;
+}
+.HOME .chaung_ye .Lovely {
+  width: 100%;
+  height: 0.48rem;
+  display: flex;
+}
+.HOME .chaung_ye .Lovely h4 {
+  width: 0.75rem;
+  height: 0.48rem;
+  float: left;
+}
+.HOME .chaung_ye .Lovely h4 span {
+  display: block;
+  width: 1rem;
+  height: 0.2rem;
+  margin: 0.15rem 0 0 0;
+  text-align: right;
+  border-left: 5px solid red;
+}
+.HOME .chaung_ye .Lovely h5 {
+  width: 100%;
+  height: 0.48rem;
+  line-height: 0.48rem;
+  float: left;
+  text-align: right;
+}
+.HOME .chaung_ye .Lovely h5 a {
+  margin-right: 0.1rem;
+  color: gainsboro;
+}
+.HOME .chaung_ye .list2 {
+  width: 100%;
+  height: 2.82rem;
+}
+.HOME .chaung_ye .list2 ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.HOME .chaung_ye .list2 ul div {
+  width: 100%;
+  height: 1rem;
+  position: relative;
+}
+.HOME .chaung_ye .list2 ul div span {
+  font-size: 0.13rem;
+}
+.HOME .chaung_ye .list2 ul div span:first-child {
+  display: block;
+  width: 0.66rem;
+  height: 0.18rem;
+  line-height: 0.18rem;
+  text-align: center;
+  background: #f90;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.HOME .chaung_ye .list2 ul div span:nth-child(2) {
+  display: block;
+  width: 1.6rem;
+  height: 0.14rem;
+  line-height: 0.14rem;
+  -webkit-tap-highlight-color: rgba(255, 255, 0, 0);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.HOME .chaung_ye .list2 ul li {
+  width: 50%;
+  height: 1.25rem;
+}
+.HOME .chaung_ye .list2 ul li h4 {
+  width: 100%;
+  height: 0.25rem;
+  line-height: 0.25rem;
+  background: white;
+  margin-top: 0.1rem;
+  font-weight: 600;
+  font-size: 0.15rem;
+}
+.HOME .chaung_ye .list2 ul li:nth-child(1),
+.HOME .chaung_ye .list2 ul li:nth-child(2) {
+  margin-bottom: 0.15rem;
+}
+.HOME .chaung_ye .list2 ul li:nth-child(1) div {
+  background: url(../img/30.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .chaung_ye .list2 ul li:nth-child(2) div {
+  background: url(../img/14.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .chaung_ye .list2 ul li:nth-child(3) div {
+  background: url(../img/21.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .chaung_ye .list2 ul li:nth-child(4) div {
+  background: url(../img/25.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .yi {
+  width: 100%;
+  height: 3.4084rem;
+  background: white;
+  padding: 0.1rem;
+  margin-bottom: 0.15rem;
+}
+.HOME .yi .Lovely {
+  width: 100%;
+  height: 0.48rem;
+  display: flex;
+}
+.HOME .yi .Lovely h4 {
+  width: 0.75rem;
+  height: 0.48rem;
+  float: left;
+}
+.HOME .yi .Lovely h4 span {
+  display: block;
+  width: 1rem;
+  height: 0.2rem;
+  margin: 0.15rem 0 0 0;
+  text-align: right;
+  border-left: 5px solid red;
+}
+.HOME .yi .Lovely h5 {
+  width: 100%;
+  height: 0.48rem;
+  line-height: 0.48rem;
+  float: left;
+  text-align: right;
+}
+.HOME .yi .Lovely h5 a {
+  margin-right: 0.1rem;
+  color: gainsboro;
+}
+.HOME .yi .list2 {
+  width: 100%;
+  height: 2.82rem;
+}
+.HOME .yi .list2 ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.HOME .yi .list2 ul div {
+  width: 100%;
+  height: 1rem;
+  position: relative;
+}
+.HOME .yi .list2 ul div span {
+  font-size: 0.13rem;
+}
+.HOME .yi .list2 ul div span:first-child {
+  display: block;
+  width: 0.66rem;
+  height: 0.18rem;
+  line-height: 0.18rem;
+  text-align: center;
+  background: #f90;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.HOME .yi .list2 ul div span:nth-child(2) {
+  display: block;
+  width: 1.6rem;
+  height: 0.14rem;
+  line-height: 0.14rem;
+  -webkit-tap-highlight-color: rgba(255, 255, 0, 0);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.HOME .yi .list2 ul li {
+  width: 50%;
+  height: 1.25rem;
+}
+.HOME .yi .list2 ul li h4 {
+  width: 100%;
+  height: 0.25rem;
+  line-height: 0.25rem;
+  background: white;
+  margin-top: 0.1rem;
+  font-weight: 600;
+  font-size: 0.15rem;
+}
+.HOME .yi .list2 ul li:nth-child(1),
+.HOME .yi .list2 ul li:nth-child(2) {
+  margin-bottom: 0.15rem;
+}
+.HOME .yi .list2 ul li:nth-child(1) div {
+  background: url(../img/15.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .yi .list2 ul li:nth-child(2) div {
+  background: url(../img/13.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .yi .list2 ul li:nth-child(3) div {
+  background: url(../img/26.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .yi .list2 ul li:nth-child(4) div {
+  background: url(../img/22.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .san {
+  width: 100%;
+  height: 3.4084rem;
+  background: white;
+  padding: 0.1rem;
+  margin-bottom: 0.15rem;
+}
+.HOME .san .Lovely {
+  width: 100%;
+  height: 0.48rem;
+  display: flex;
+}
+.HOME .san .Lovely h4 {
+  width: 0.75rem;
+  height: 0.48rem;
+  float: left;
+}
+.HOME .san .Lovely h4 span {
+  display: block;
+  width: 1rem;
+  height: 0.2rem;
+  margin: 0.15rem 0 0 0;
+  text-align: right;
+  border-left: 5px solid red;
+}
+.HOME .san .Lovely h5 {
+  width: 100%;
+  height: 0.48rem;
+  line-height: 0.48rem;
+  float: left;
+  text-align: right;
+}
+.HOME .san .Lovely h5 a {
+  margin-right: 0.1rem;
+  color: gainsboro;
+}
+.HOME .san .list2 {
+  width: 100%;
+  height: 2.82rem;
+}
+.HOME .san .list2 ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.HOME .san .list2 ul div {
+  width: 100%;
+  height: 1rem;
+  position: relative;
+}
+.HOME .san .list2 ul div span {
+  font-size: 0.13rem;
+}
+.HOME .san .list2 ul div span:first-child {
+  display: block;
+  width: 0.66rem;
+  height: 0.18rem;
+  line-height: 0.18rem;
+  text-align: center;
+  background: #f90;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.HOME .san .list2 ul div span:nth-child(2) {
+  display: block;
+  width: 1.6rem;
+  height: 0.14rem;
+  line-height: 0.14rem;
+  -webkit-tap-highlight-color: rgba(255, 255, 0, 0);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.HOME .san .list2 ul li {
+  width: 50%;
+  height: 1.25rem;
+}
+.HOME .san .list2 ul li h4 {
+  width: 100%;
+  height: 0.25rem;
+  line-height: 0.25rem;
+  background: white;
+  margin-top: 0.1rem;
+  font-weight: 600;
+  font-size: 0.15rem;
+}
+.HOME .san .list2 ul li:nth-child(1),
+.HOME .san .list2 ul li:nth-child(2) {
+  margin-bottom: 0.15rem;
+}
+.HOME .san .list2 ul li:nth-child(1) div {
+  background: url(../img/31.png) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .san .list2 ul li:nth-child(2) div {
+  background: url(../img/24.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .san .list2 ul li:nth-child(3) div {
+  background: url(../img/20.png) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .san .list2 ul li:nth-child(4) div {
+  background: url(../img/32.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .tu {
+  width: 100%;
+  height: 3.4084rem;
+  background: white;
+  padding: 0.1rem;
+  margin-bottom: 0.15rem;
+}
+.HOME .tu .Lovely {
+  width: 100%;
+  height: 0.48rem;
+  display: flex;
+}
+.HOME .tu .Lovely h4 {
+  width: 0.75rem;
+  height: 0.48rem;
+  float: left;
+}
+.HOME .tu .Lovely h4 span {
+  display: block;
+  width: 1rem;
+  height: 0.2rem;
+  margin: 0.15rem 0 0 0;
+  text-align: right;
+  border-left: 5px solid red;
+}
+.HOME .tu .Lovely h5 {
+  width: 100%;
+  height: 0.48rem;
+  line-height: 0.48rem;
+  float: left;
+  text-align: right;
+}
+.HOME .tu .Lovely h5 a {
+  margin-right: 0.1rem;
+  color: gainsboro;
+}
+.HOME .tu .list2 {
+  width: 100%;
+  height: 2.82rem;
+}
+.HOME .tu .list2 ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.HOME .tu .list2 ul div {
+  width: 100%;
+  height: 1rem;
+  position: relative;
+}
+.HOME .tu .list2 ul div span {
+  font-size: 0.13rem;
+}
+.HOME .tu .list2 ul div span:first-child {
+  display: block;
+  width: 0.66rem;
+  height: 0.18rem;
+  line-height: 0.18rem;
+  text-align: center;
+  background: #f90;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.HOME .tu .list2 ul div span:nth-child(2) {
+  display: block;
+  width: 1.6rem;
+  height: 0.14rem;
+  line-height: 0.14rem;
+  -webkit-tap-highlight-color: rgba(255, 255, 0, 0);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.HOME .tu .list2 ul li {
+  width: 50%;
+  height: 1.25rem;
+}
+.HOME .tu .list2 ul li h4 {
+  width: 100%;
+  height: 0.25rem;
+  line-height: 0.25rem;
+  background: white;
+  margin-top: 0.1rem;
+  font-weight: 600;
+  font-size: 0.15rem;
+}
+.HOME .tu .list2 ul li:nth-child(1),
+.HOME .tu .list2 ul li:nth-child(2) {
+  margin-bottom: 0.15rem;
+}
+.HOME .tu .list2 ul li:nth-child(1) div {
+  background: url(../img/33.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .tu .list2 ul li:nth-child(2) div {
+  background: url(../img/17.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .tu .list2 ul li:nth-child(3) div {
+  background: url(../img/18.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .tu .list2 ul li:nth-child(4) div {
+  background: url(../img/34.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .shi {
+  width: 100%;
+  height: 3.4084rem;
+  background: white;
+  padding: 0.1rem;
+  margin-bottom: 0.15rem;
+}
+.HOME .shi .Lovely {
+  width: 100%;
+  height: 0.48rem;
+  display: flex;
+}
+.HOME .shi .Lovely h4 {
+  width: 0.75rem;
+  height: 0.48rem;
+  float: left;
+}
+.HOME .shi .Lovely h4 span {
+  display: block;
+  width: 1rem;
+  height: 0.2rem;
+  margin: 0.15rem 0 0 0;
+  text-align: right;
+  border-left: 5px solid red;
+}
+.HOME .shi .Lovely h5 {
+  width: 100%;
+  height: 0.48rem;
+  line-height: 0.48rem;
+  float: left;
+  text-align: right;
+}
+.HOME .shi .Lovely h5 a {
+  margin-right: 0.1rem;
+  color: gainsboro;
+}
+.HOME .shi .list2 {
+  width: 100%;
+  height: 2.82rem;
+}
+.HOME .shi .list2 ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.HOME .shi .list2 ul div {
+  width: 100%;
+  height: 1rem;
+  position: relative;
+}
+.HOME .shi .list2 ul div span {
+  font-size: 0.13rem;
+}
+.HOME .shi .list2 ul div span:first-child {
+  display: block;
+  width: 0.66rem;
+  height: 0.18rem;
+  line-height: 0.18rem;
+  text-align: center;
+  background: #f90;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.HOME .shi .list2 ul div span:nth-child(2) {
+  display: block;
+  width: 1.6rem;
+  height: 0.14rem;
+  line-height: 0.14rem;
+  -webkit-tap-highlight-color: rgba(255, 255, 0, 0);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.HOME .shi .list2 ul li {
+  width: 50%;
+  height: 1.25rem;
+}
+.HOME .shi .list2 ul li h4 {
+  width: 100%;
+  height: 0.25rem;
+  line-height: 0.25rem;
+  background: white;
+  margin-top: 0.1rem;
+  font-weight: 600;
+  font-size: 0.15rem;
+}
+.HOME .shi .list2 ul li:nth-child(1),
+.HOME .shi .list2 ul li:nth-child(2) {
+  margin-bottom: 0.15rem;
+}
+.HOME .shi .list2 ul li:nth-child(1) div {
+  background: url(../img/28.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .shi .list2 ul li:nth-child(2) div {
+  background: url(../img/27.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .shi .list2 ul li:nth-child(3) div {
+  background: url(../img/23.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .shi .list2 ul li:nth-child(4) div {
+  background: url(../img/16.jpg) no-repeat center center;
+  background-size: 100% 100%;
+}
+.HOME .footer {
+  width: 100%;
+  height: 1.1819rem;
+  background: #4e525e;
+  padding: 0.2rem 0;
+}
+.HOME .footer p {
+  width: 100%;
+  height: 0.3919rem;
+  display: flex;
+}
+.HOME .footer p a {
+  display: block;
+  width: 1.22rem;
+  height: 0.3919rem;
+  line-height: 0.3919rem;
+  text-align: center;
+  margin: 0 auto;
+  border: 1px solid #42454d;
+  border-radius: 0.05rem;
+  color: #c6c6c6;
+}
+.HOME .footer div {
+  width: 100%;
+  height: 0.288rem;
+  margin-top: 0.1rem;
+  display: flex;
+}
+.HOME .footer div a {
+  height: 0.288rem;
+  line-height: 0.28rem;
+  display: block;
+  text-align: center;
+  color: #c6c6c6;
+  font-size: 0.14rem;
+}
+.HOME .footer div a:first-child {
+  width: 1.87rem;
+}
+.HOME .footer div a:nth-child(2),
+.HOME .footer div a:nth-child(3) {
+  width: 0.87rem;
+}
+.HOME .topp {
+  width: 25%;
+  height: 15%;
+  background: url(../img/ico_gotop.png) no-repeat center center;
+  background-size: 50% 50%;
+  position: fixed;
+  bottom: 0.6rem;
+  right: 0;
+  border: 50%;
+}

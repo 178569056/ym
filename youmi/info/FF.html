@@ -1,0 +1,60 @@
+<div class="FF">
+	<div class="head">
+		<a href="#TJ">
+			<img src="images/my1.png" class="ff"/>
+		</a>
+	</div>
+	<div class="main1">
+		<ul>
+			<li>订单价格： <span>￥212.00元</span></li>
+			<li>可用余额： <span>￥106</span></li>
+		</ul>
+		<p>支付遇到限额问题，可多次充值在支付  <a>去充值</a></p>
+		<p>还需支付：<span>￥<strong>106.00</strong></span></p>
+	</div>
+	<!--支付方式-->
+	<div class="way">
+		<h3>选择支付方式</h3>
+		<ul>
+			<li ng-repeat="x in arr.payment.sdk">
+				<a href="{{x.url}}">
+					<img ng-src='{{x.icon}}'/>
+					<p>{{x.name}}</p>
+					<p>{{x.desc}}</p>
+				</a>
+			</li>
+		</ul>
+	</div>
+	
+	<!--银行-->
+	<div class="bank">
+		<h4>选择银行借记卡支付：</h4>
+		<ul>
+			<li ng-repeat="x in arr.payment.bank">
+				<img src="{{x.icon}}"/>
+			</li>
+		</ul>
+	</div>
+	<div class="foot">
+		<ul>
+			<li>
+				<i></i>
+				电话：010-85801860
+			</li>
+			<li>
+				<i></i>
+				微博：@优米网
+			</li>
+			<li>
+				<i></i>
+				QQ客服：800021784
+			</li>
+			<li>
+				<i></i>
+				微信：youmiwang
+			</li>
+		</ul>
+	</div>
+</div>
+	
+	

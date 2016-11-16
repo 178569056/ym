@@ -1,0 +1,41 @@
+<div class="ph">
+	
+	<div class="PH-bangdan">
+	 <ul class="PH-bangdan1">
+	 	<li class="PH-hit"  ng-click="clickMe1()" >热播榜</li>
+	 	<li ng-click="clickMe2()">热销榜</li>
+	 	<li ng-click="clickMe3()">热评榜</li>
+	 </ul>
+	</div>
+	
+	<div>
+		<ul class="PH-list">
+			<li ng-repeat="x in arr.record">
+				<div ng-bind="$index+1|tcdemo1" ></div>
+					<div>
+						<img lazy-src= {{x.image}}>
+						<div class="PH-jianshu">
+							<h3>{{x.title}}</h3>
+							<p>{{x.authorname}}</p>
+						</div>
+					</div>
+			</li>
+		</ul>
+	</div>
+	
+	<div class="PH-foot">
+	<div><span class="PH-sp1"></span><span>电话：010-85801860</span></div>
+	
+	<div><span class="PH-sp2"></span><span>微博：@优米网</span></div>
+	<div><span class="PH-sp3"></span><span>QQ客服：800021784</span></div>
+	<div><span class="PH-sp4"></span><span>微信：youmiwang</span></div>
+	
+	</div>
+	<div class="PH-foot1">
+	 <a href="http://www.youmi.cn/?f=wap"><div><span></span>回电脑版</div></a>
+		
+	
+	
+	</div>
+
+</div>

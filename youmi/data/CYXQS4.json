@@ -1,0 +1,210 @@
+{
+    "errormsg": false,
+    "totals": 63,
+    "curr_page": 1,
+    "pages": 4,
+    "record": [
+        {
+            "id": "12391",
+            "title": "话说比特币",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-07/12391_190X1420729.png",
+            "authorname": "吴忌寒 比特大陆联合创始人",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12391&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2511"
+        },
+        {
+            "id": "12392",
+            "title": "以情怀创造价值",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-07/12392_190X1420720.png",
+            "authorname": "张焱 铜掌柜CEO ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12392&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2863"
+        },
+        {
+            "id": "12386",
+            "title": "互联网+区块链的化学效益",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-07/12386_190X1420707.png",
+            "authorname": "刘洋 币看网创始人兼CEO",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12386&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1945"
+        },
+        {
+            "id": "12385",
+            "title": "人人都是金融家",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-07/12385_190X1420706.jpg",
+            "authorname": "李林 火币网创始人兼董事长",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12385&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1928"
+        },
+        {
+            "id": "12331",
+            "title": "互联网+时代下的大资管",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-04/12331_190X1420418.jpg",
+            "authorname": "赵荣春 钱景财富执行董事 ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12331&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "4294"
+        },
+        {
+            "id": "12325",
+            "title": "网络老兵迎接新挑战",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-04/12325_190X1420412.jpg",
+            "authorname": "许建文 人人聚财CEO ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12325&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1697"
+        },
+        {
+            "id": "12322",
+            "title": "互联网金融的基因在哪里",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-04/12322_190X1420407.jpg",
+            "authorname": "徐飞 中金云金融董事 ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12322&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1769"
+        },
+        {
+            "id": "12320",
+            "title": "坚守本位的网贷平台",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-04/12320_190X1420405.jpg",
+            "authorname": "唐武 民信贷总经理",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12320&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1341"
+        },
+        {
+            "id": "12316",
+            "title": "网贷发展多元化",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-03/12316_190X1420331.jpg",
+            "authorname": "孙明达 融金所创始人 ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12316&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1340"
+        },
+        {
+            "id": "12313",
+            "title": "股权众筹的孵化作用",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-03/12313_190X1420328.jpg",
+            "authorname": "孙宏生 众筹网创始人兼首席执行官",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12313&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2153"
+        },
+        {
+            "id": "12311",
+            "title": "金融创新 勿忘初心",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-03/12311_190X1420323.jpg",
+            "authorname": "陈羲 普惠金融副总裁",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12311&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1341"
+        },
+        {
+            "id": "12309",
+            "title": "P2P网贷要么透明要么死",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-03/12309_190X1420322.jpg",
+            "authorname": "毕丽娜 品信众达总经理",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12309&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2064"
+        },
+        {
+            "id": "12304",
+            "title": "逆势而上，化危为机",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-03/12304_190X1420315.jpg",
+            "authorname": "王晓明 原胖胖猪CEO  现蜂蜜金控CEO",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12304&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1898"
+        },
+        {
+            "id": "12301",
+            "title": "翼龙的进化",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-03/12301_190X1420309.jpg",
+            "authorname": "赵洋   ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12301&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1502"
+        },
+        {
+            "id": "12299",
+            "title": "金融真的颠覆了吗？",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-03/12299_190X1420307.jpg",
+            "authorname": "汤浔芳 《颠覆金融》作者",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12299&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2249"
+        },
+        {
+            "id": "12289",
+            "title": "移动互联时代的创新机遇",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-02/12289_190X1420222.jpg",
+            "authorname": "唐彬 易宝支付CEO及联合创始人  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12289&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2682"
+        },
+        {
+            "id": "12284",
+            "title": "金融也要大数据",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-02/12284_190X1420215.jpg",
+            "authorname": "易欢欢 键桥通讯董事",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12284&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1861"
+        },
+        {
+            "id": "12262",
+            "title": "十亿估值的众筹网站经营之道",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-11/12262_190X1421117.jpg",
+            "authorname": "郑林 人人投创始人",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12262&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "8177"
+        },
+        {
+            "id": "12231",
+            "title": "别让股东上演宫廷斗争",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-10/12231_190X1421015.jpg",
+            "authorname": "仰海波 翼龙贷法务总监",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12231&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1467"
+        },
+        {
+            "id": "12230",
+            "title": "众筹的股权和法律问题",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-10/12230_190X1421014.jpg",
+            "authorname": "仰海波 翼龙贷法务总监",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12230&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1645"
+        }
+    ],
+    "returnmsg": "",
+    "total": 20
+}

@@ -1,0 +1,78 @@
+body {
+  background: white;
+  margin-bottom: 0.4rem;
+}
+.XQ div div {
+  height: 1.95rem;
+  width: 100%;
+  background: url(../images/ZT1.png) no-repeat;
+  background-size: 100%;
+}
+.XQ div p {
+  margin-top: 10px;
+  padding: 0 10px;
+  font-size: 0.14rem;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #EFEFEF;
+}
+.XQ ul {
+  padding: 0 10px;
+  background: white;
+}
+.XQ ul li {
+  padding-top: 10px;
+  overflow: hidden;
+  border-bottom: 1px solid #EEEEEE;
+}
+.XQ ul li img {
+  width: 0.89rem;
+  height: 0.67rem;
+  float: left;
+  margin-right: 10px;
+}
+.XQ ul li p {
+  line-height: 0.25rem;
+  font-size: 0.14rem;
+}
+.XQ ul li p:last-child {
+  color: #999999;
+  font-size: 0.12rem;
+}
+.XQ .foot {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.XQ .foot p {
+  background: #EFEFEF;
+  padding: 0;
+  line-height: 0.4rem;
+  font-size: 0.14rem;
+  color: #999999;
+  text-align: center;
+}
+.XQ .foot p span:first-child {
+  text-decoration: line-through;
+}
+.XQ .foot p span:nth-of-type(2) {
+  color: #999;
+  font-style: normal;
+}
+.XQ .foot p span:nth-of-type(2) em {
+  color: #f60;
+  font-style: normal;
+}
+.XQ .foot p span:nth-of-type(2) strong {
+  color: #f60;
+  font-size: 0.2rem;
+}
+.XQ .foot p a {
+  color: white;
+  background: #f60;
+  display: inline-block;
+  line-height: 0.3rem;
+  padding: 0 10px;
+  border-radius: 5px;
+  margin-left: 10px;
+}

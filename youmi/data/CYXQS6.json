@@ -1,0 +1,160 @@
+{
+    "errormsg": false,
+    "totals": 15,
+    "curr_page": 1,
+    "pages": 1,
+    "record": [
+        {
+            "id": "12016",
+            "title": "国外模式能本土化吗",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-04/12016_190X1420414.jpg",
+            "authorname": "熊晓鸽 IDG资本创始合伙人  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12016&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "7868"
+        },
+        {
+            "id": "11720",
+            "title": "自如如何打造租房理想国",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-11/11720_190X1421119.jpg",
+            "authorname": "熊林 自如网CEO ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11720&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1065"
+        },
+        {
+            "id": "11721",
+            "title": "乐居：极致产品长成记",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-11/11721_190X1421119.jpg",
+            "authorname": "陈克逸 乐居控股有限公司执行总裁",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11721&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "815"
+        },
+        {
+            "id": "11723",
+            "title": "商用不动产的竞争力在哪",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-11/11723_190X1421120.jpg",
+            "authorname": "冯仑 万通地产董事长  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11723&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1325"
+        },
+        {
+            "id": "11719",
+            "title": "互联网带动产城一体化",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-11/11719_190X1421119.jpg",
+            "authorname": "汤洪志 绿地集团产业地产发展中心总经理",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11719&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "732"
+        },
+        {
+            "id": "11717",
+            "title": "住宅开发的转型三部曲",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-11/11717_190X1421119.jpg",
+            "authorname": "冯仑 万通地产董事长  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11717&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "955"
+        },
+        {
+            "id": "11710",
+            "title": "智能家居的商业机会",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-11/11710_190X1421119.jpg",
+            "authorname": "刘斥 海尔家居集成股份有限公司总经理",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11710&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2092"
+        },
+        {
+            "id": "11712",
+            "title": "互联网时代四类房产创新",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-11/11712_190X1421119.jpg",
+            "authorname": "冯仑 万通地产董事长  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11712&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1899"
+        },
+        {
+            "id": "11716",
+            "title": "打造智慧社区的O2O平台",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-11/11716_190X1421119.jpg",
+            "authorname": "顾京宁 中智科技集团董事长",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11716&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "981"
+        },
+        {
+            "id": "11724",
+            "title": "用互联网改造传统物业管理",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-11/11724_190X1421119.jpg",
+            "authorname": "唐学斌 彩生活服务集团执行董事兼行政总裁",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11724&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "946"
+        },
+        {
+            "id": "11711",
+            "title": "构建新商业地产O2O生态圈",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-11/11711_190X1421119.jpg",
+            "authorname": "邵品贤 思科运营商事业部首席解决方案架构师 ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11711&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "858"
+        },
+        {
+            "id": "11713",
+            "title": "解析四种地产商业模式",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-11/11713_190X1421119.jpg",
+            "authorname": "冯仑 万通地产董事长  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11713&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1524"
+        },
+        {
+            "id": "11714",
+            "title": "分享经济让不动产动起来",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-11/11714_190X1421119.jpg",
+            "authorname": "罗军 途家网联合创始人兼CEO，原新浪乐居总经理",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11714&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1302"
+        },
+        {
+            "id": "11715",
+            "title": "五个维度决定房地产价值 ",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-11/11715_190X1421119.jpg",
+            "authorname": "冯仑 万通地产董事长  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11715&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1775"
+        },
+        {
+            "id": "11718",
+            "title": "商用不动产的两大转型",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-11/11718_190X1421119.jpg",
+            "authorname": "冯仑 万通地产董事长  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11718&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1253"
+        }
+    ],
+    "returnmsg": "",
+    "total": 15
+}

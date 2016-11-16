@@ -1,0 +1,156 @@
+body {
+  background: #f0f0f0;
+}
+.XYX{
+    .CYhead {
+      background: #ff9900;
+      height: 0.44rem;
+      display: flex;
+      line-height: 0.44rem;
+      justify-content: space-between;
+      a:first-child{
+          color: white;
+          font-size: 20/100rem;
+          display: inline-block;
+          padding: 0 20px;
+      }
+      span {
+          color: white;
+          font-size: 0.2rem;
+        }
+       a:last-child{
+           height: 20/100rem;
+           padding: 0 15px;
+           margin-top: 10/100rem;
+           margin-right: 10/100rem;
+           display: inline-block;
+           background: url(../images/my4.png) no-repeat;
+           background-size: cover;
+           background-position: 0 -108/100rem;
+       }
+    }
+    
+    .YXnav{
+        background: white;
+        padding-bottom: 20px;
+        img{
+            width: 100%;
+        }
+        p{
+            margin: 20px 10px 0 10px;
+            font-size: 14/100rem;
+            border-top: 1px solid #EFEFEF;
+            border-bottom: 1px solid #EFEFEF;
+            position: relative;
+            padding: 10px 0;
+            span{
+                position: absolute;
+                display: inline-block;
+                width: 30/100rem;
+                height: 4/100rem;
+                background: #999999;
+            }
+            span:first-child{
+                top: -4/100rem;
+                left: 0;
+            }
+            span:last-child{
+                bottom:0;
+                right: 0;
+            }
+        }
+    }
+    
+    .YX1{
+        background: white;
+        margin-top: 10px;
+        padding: 0 10px;
+        h3{
+            border-bottom: 1px solid #EFEFEF;
+            padding: 10px 0;
+        }
+        .p1{
+            font-size: 14/100rem;
+            color: #999;
+            line-height: 30/100rem;
+        }
+        ul{
+            overflow: hidden;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            padding-bottom: 10px;
+            li{
+                width: 48%;
+                padding: 5px 0;
+                float: left;
+                div{
+                    width: 100%;
+                    position: relative;
+                    img{
+                        width: 100%;
+                    }
+                    span{
+                        position: absolute;
+                        display: inline-block;
+                        background: orangered;
+                        font-size: 10/100rem;
+                        padding: 5px;
+                        color: white;
+                        bottom: 3/100rem;
+                        right: 0;
+                    }
+                }
+                p{
+                    font-size: 14/100rem;
+                    overflow: hidden;
+                    white-space: nowrap;
+                    text-overflow: ellipsis;
+                }
+            }
+            li:nth-of-type(odd){
+                margin-right: 10px;
+            }
+        }
+    }
+    
+    .YXfooter{
+        background: white;
+        margin-top: 10px;
+        padding: 20px 0;
+        ul{
+            display: flex;
+            flex-wrap: wrap;
+            li{
+                width: 50%;
+              line-height: 0.3rem;
+              padding-left: 0.3rem;
+              box-sizing: border-box;
+              color: #999999;
+              position: relative;
+              i{
+                  position: absolute;
+                  left: 0.1rem;
+                  top: 0;
+                  width: 0.23rem;
+                  height: 0.2rem;
+                  display: inline-block;
+                  background: url(../images/my4.png) no-repeat;
+                  background-size: cover;
+                  padding-top: 5px;
+              }
+            }
+            li:first-child i {
+              background-position: 0 -2.03rem;
+            }
+            li:nth-of-type(2) i {
+              background-position: 0 -2.27rem;
+            }
+            li:nth-of-type(3) i {
+              background-position: 0 -2.53rem;
+            }
+            li:nth-of-type(4) i {
+              background-position: 0 -2.78rem;
+            }
+        }
+    }
+}

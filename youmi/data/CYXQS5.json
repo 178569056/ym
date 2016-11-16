@@ -1,0 +1,210 @@
+{
+    "errormsg": false,
+    "totals": 47,
+    "curr_page": 1,
+    "pages": 3,
+    "record": [
+        {
+            "id": "12284",
+            "title": "金融也要大数据",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-02/12284_190X1420215.jpg",
+            "authorname": "易欢欢 键桥通讯董事",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12284&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1861"
+        },
+        {
+            "id": "12198",
+            "title": "Uber快的如何用大数据",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-08/12198_190X1420830.jpg",
+            "authorname": "涂子沛 阿里巴巴集团副总裁",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12198&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2487"
+        },
+        {
+            "id": "12197",
+            "title": "大数据颠覆交易模式",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-08/12197_190X1420827.jpg",
+            "authorname": "闵万里 阿里巴巴集团资深数据科学总监",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12197&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1604"
+        },
+        {
+            "id": "12192",
+            "title": "大数据是做广告用的",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-08/12192_190X1420825.jpg",
+            "authorname": "高铎 北京腾云天下科技有限公司副总裁",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12192&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "932"
+        },
+        {
+            "id": "12191",
+            "title": "大数据的定义和作用",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-08/12191_190X1420823.jpg",
+            "authorname": "涂子沛 阿里巴巴集团副总裁",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12191&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2118"
+        },
+        {
+            "id": "12176",
+            "title": "高红冰王利芬点评互联网+云服务",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-08/12176_190X1420813.jpg",
+            "authorname": "赵大伟 和君咨询集团合伙人    ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12176&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1805"
+        },
+        {
+            "id": "12167",
+            "title": "一云多端 连接一切",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-08/12167_190X1420814.jpg",
+            "authorname": "刘克鸿 腾讯云计算副总裁",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12167&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "363"
+        },
+        {
+            "id": "12173",
+            "title": "滴滴快的与云服务",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-08/12173_190X1420813.jpg",
+            "authorname": "李令辉 滴滴快的首席架构师兼基础架构部技术总监",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12173&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "888"
+        },
+        {
+            "id": "12171",
+            "title": "拉勾的成长与Ucloud",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-08/12171_190X1420813.jpg",
+            "authorname": "鲍艾乐 3W咖啡联合创始人、拉勾网联合创始人兼CMO",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12171&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1078"
+        },
+        {
+            "id": "12168",
+            "title": "UCloud云计算",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-08/12168_190X1420812.jpg",
+            "authorname": "华琨 UCloud联合创始人兼COO",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12168&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "500"
+        },
+        {
+            "id": "12166",
+            "title": "游戏化炒股APP怎么用云",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-08/12166_190X1420812.jpg",
+            "authorname": "李豪 涨涨科技CEO",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12166&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "504"
+        },
+        {
+            "id": "12165",
+            "title": "云上的创业生态",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-08/12165_190X1420811.jpg",
+            "authorname": "刘松 阿里云业务总经理",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12165&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "626"
+        },
+        {
+            "id": "12139",
+            "title": "打造优秀互联网产品",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-07/12139_190X1420721.jpg",
+            "authorname": "林志 UCLOUD云计算架构师 ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12139&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "683"
+        },
+        {
+            "id": "12115",
+            "title": "互联网大数据征信对金融的影响",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-07/12115_190X1420702.jpg",
+            "authorname": "吴丹 腾讯征信总经理  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12115&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "954"
+        },
+        {
+            "id": "11911",
+            "title": "小微金融中的大数据",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2015-02/11911_190X1420206.jpg",
+            "authorname": "何大勇 波士顿咨询公司北京办公室董事经理",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11911&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "3344"
+        },
+        {
+            "id": "11697",
+            "title": "青橙手机 “定制”颠覆传统",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-12/11697_190X1421203.jpg",
+            "authorname": "王迅 青橙手机董事长兼CEO",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11697&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2251"
+        },
+        {
+            "id": "11675",
+            "title": "大连接下的新商业",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-10/11675_190X1421030.jpg",
+            "authorname": "王兴 美团网创始人 ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11675&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "11989"
+        },
+        {
+            "id": "11632",
+            "title": "如何赢在大数据时代",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-10/11632_190X1421021.jpg",
+            "authorname": "李川 阿里巴巴集团O2O项目品牌商负责人  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11632&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1122"
+        },
+        {
+            "id": "11614",
+            "title": "用大数据打造水果电商",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-10/11614_190X1421020.jpg",
+            "authorname": "赵国璋 天天果园联合创始人",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11614&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2040"
+        },
+        {
+            "id": "11627",
+            "title": "让企业胜出的新工具",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2014-10/11627_190X1421021.jpg",
+            "authorname": "张越 波士顿咨询董事经理",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=11627&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1036"
+        }
+    ],
+    "returnmsg": "",
+    "total": 20
+}

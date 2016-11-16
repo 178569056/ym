@@ -1,0 +1,133 @@
+.ph .PH-bangdan1 {
+  width: 3.25rem;
+  height: 0.3rem;
+  border: 1px #ff9900 solid ;
+  display: flex;
+  border-radius: 0.08rem;
+}
+.ph .PH-bangdan {
+  padding-top: 0.12rem;
+  padding-bottom: 0.12rem;
+  width: 100%;
+  text-align: center;
+}
+.ph .PH-bangdan1 > li {
+  height: 0.3rem;
+  line-height: 0.3rem;
+  font-size: 0.16rem;
+  flex: 1;
+}
+.ph .PH-bangdan1 > li:nth-child(2) {
+  border-left: 1px #ff9900 solid;
+  border-right: 1px #ff9900 solid;
+}
+.ph .PH-hit {
+  background-color: #ff9900;
+  color: white;
+}
+.ph .PH-list {
+  width: 100%;
+}
+.ph .PH-list > li {
+  padding-top: 0.12rem;
+  padding-bottom: 0.12rem;
+  display: flex;
+}
+.ph .PH-list > li > div:nth-child(1) {
+  flex: 1;
+  height: 0.6rem;
+  line-height: 0.6rem;
+  text-align: center;
+  font-size: 0.2rem;
+}
+.ph .PH-list > li > div:nth-child(2) {
+  flex: 5.5;
+  height: 0.6rem;
+}
+.ph .PH-list > li > div:nth-child(2) > img {
+  width: 1rem;
+  height: 0.6rem;
+}
+.ph .PH-jianshu {
+  float: right;
+  width: 65%;
+  height: 0.6rem;
+}
+.ph .PH-jianshu h3 {
+  font-size: 0.16rem;
+}
+.ph .PH-jianshu p {
+  font-size: 0.15rem;
+  margin-top: 0.05rem;
+}
+.ph .PH-list > li:nth-child(1) > div:nth-child(1) {
+  color: #ff9900;
+}
+.ph .PH-list > li:nth-child(2) > div:nth-child(1) {
+  color: #ff9900;
+}
+.ph .PH-list > li:nth-child(3) > div:nth-child(1) {
+  color: #ff9900;
+}
+.ph .PH-list > li > div:nth-child(1) {
+  font-weight: 700;
+}
+.ph .PH-foot {
+  margin-top: 0.12rem;
+  background-color: white;
+  height: 1rem;
+}
+.ph .PH-foot1 {
+  height: 1rem;
+  background-color: #f4f4f4;
+  text-align: center;
+  padding-top: 0.4rem;
+}
+.ph .PH-foot1 > div {
+  width: 1.2rem;
+  font-size: 0.16rem;
+  height: 0.22rem;
+  line-height: 0.28rem;
+}
+.ph .PH-foot1 > div > span {
+  background: url(http://i1.umivi.net/v/static/2015/youmiwap/images/public/publicico.png) -0.08rem -6.23rem no-repeat;
+  width: 0.33rem ;
+  height: 0.28rem;
+  vertical-align: bottom;
+}
+.ph .PH-foot > div {
+  display: inline-block;
+  width: 50%;
+  height: 0.28rem;
+  margin-top: 0.1rem;
+  padding-left: 0.15rem;
+}
+.ph .PH-foot {
+  padding-top: 0.1rem;
+  padding-bottom: 0.2rem;
+  font-size: 0;
+}
+.ph .PH-foot > div > span:nth-child(1) {
+  width: 0.33rem ;
+  height: 0.28rem;
+}
+.ph .PH-foot > div > span {
+  vertical-align: bottom;
+}
+.ph .PH-foot > div > span:nth-child(2) {
+  height: 0.28rem;
+  line-height: 0.28rem;
+  font-size: 0.14rem;
+}
+.ph .PH-sp1 {
+  background: url(http://i1.umivi.net/v/static/2015/youmiwap/images/public/publicico.png) -0.08rem -421px no-repeat;
+}
+.ph .PH-sp2 {
+  background: url(http://i1.umivi.net/v/static/2015/youmiwap/images/public/publicico.png) -0.08rem -470px no-repeat;
+}
+.ph .PH-sp3 {
+  background: url(http://i1.umivi.net/v/static/2015/youmiwap/images/public/publicico.png) -0.08rem -519px no-repeat;
+}
+.ph .PH-sp4 {
+  background: url(http://i1.umivi.net/v/static/2015/youmiwap/images/public/publicico.png) -0.08rem -570px no-repeat;
+}

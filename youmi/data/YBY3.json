@@ -1,0 +1,210 @@
+{
+    "errormsg": false,
+    "totals": 200,
+    "curr_page": 1,
+    "pages": 10,
+    "record": [
+        {
+            "id": "12462",
+            "title": "《有志·赢在中国》",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-11/12462_190X1421109.jpg",
+            "authorname": "吴声 互联网营销资深人士，东方风行集团总顾问  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12462&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "188"
+        },
+        {
+            "id": "12460",
+            "title": "《有志·赢在中国》",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-11/12460_190X1421108.jpg",
+            "authorname": "吴声 互联网营销资深人士，东方风行集团总顾问  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12460&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "187"
+        },
+        {
+            "id": "12413",
+            "title": "火箭少年的梦想与现实（上）",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-08/12413_190X1420819.png",
+            "authorname": "胡振宇 翎客航天创始人",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12413&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "548"
+        },
+        {
+            "id": "12397",
+            "title": "高绩效团队的三个秘密03",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-08/12397_190X1420801.png",
+            "authorname": "任向晖 明道创始人",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12397&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "689"
+        },
+        {
+            "id": "12396",
+            "title": "高绩效团队的三个秘密02",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-08/12396_190X1420801.png",
+            "authorname": "任向晖 明道创始人",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12396&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1248"
+        },
+        {
+            "id": "12391",
+            "title": "话说比特币",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-07/12391_190X1420729.png",
+            "authorname": "吴忌寒 比特大陆联合创始人",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12391&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2511"
+        },
+        {
+            "id": "12400",
+            "title": "2016赢在中国第三集",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-07/12400_190X1420725.png",
+            "authorname": "王利芬 优米网创始人、总裁  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12400&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2265"
+        },
+        {
+            "id": "12399",
+            "title": "2016赢在中国第三集",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-07/12399_190X1420721.png",
+            "authorname": "王利芬 优米网创始人、总裁  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12399&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "8869"
+        },
+        {
+            "id": "12398",
+            "title": "2016《赢在中国》第二集未删减版",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-07/12398_190X1420718.png",
+            "authorname": "王利芬 优米网创始人、总裁  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12398&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1725"
+        },
+        {
+            "id": "12395",
+            "title": "高绩效团队的三个秘密01",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-07/12395_190X1420720.png",
+            "authorname": "任向晖 明道创始人",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12395&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1028"
+        },
+        {
+            "id": "12394",
+            "title": "2016赢在中国第2集",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-07/12394_190X1420714.png",
+            "authorname": "王利芬 优米网创始人、总裁  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12394&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "7344"
+        },
+        {
+            "id": "12393",
+            "title": "2016赢在中国第1集未删减版",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-07/12393_190X1420713.png",
+            "authorname": "王利芬 优米网创始人、总裁  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12393&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2284"
+        },
+        {
+            "id": "12392",
+            "title": "以情怀创造价值",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-07/12392_190X1420720.png",
+            "authorname": "张焱 铜掌柜CEO ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12392&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "2863"
+        },
+        {
+            "id": "12390",
+            "title": "《赢在中国》第一集电视版",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-07/12390_190X1420711.jpg",
+            "authorname": "王利芬 优米网创始人、总裁  ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12390&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "7224"
+        },
+        {
+            "id": "12389",
+            "title": "讲好故事有哪些方法？",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-07/12389_190X1420708.png",
+            "authorname": "刘文中 新浪高级微博传播顾问     ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12389&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1090"
+        },
+        {
+            "id": "12387",
+            "title": "做好营销要会讲好故事",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-07/12387_190X1420707.png",
+            "authorname": "刘文中 新浪高级微博传播顾问     ",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12387&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1079"
+        },
+        {
+            "id": "12386",
+            "title": "互联网+区块链的化学效益",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-07/12386_190X1420707.png",
+            "authorname": "刘洋 币看网创始人兼CEO",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12386&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1945"
+        },
+        {
+            "id": "12385",
+            "title": "人人都是金融家",
+            "grade": "1",
+            "classes": "精品课程",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-07/12385_190X1420706.jpg",
+            "authorname": "李林 火币网创始人兼董事长",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12385&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1928"
+        },
+        {
+            "id": "12384",
+            "title": "从0到1创业 （下）",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-07/12384_190X1420704.jpg",
+            "authorname": "李建军 创客总部合伙人",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12384&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "629"
+        },
+        {
+            "id": "12383",
+            "title": "从0到1创业 （上）",
+            "grade": "30",
+            "classes": "钻石会员",
+            "image": "http://i1.umivi.net/v/album/listimage/2016-07/12383_190X1420704.jpg",
+            "authorname": "李建军 创客总部合伙人",
+            "detailurl": "http://i.v.youmi.cn/ClientApi/getAlbumDetail?id=12383&frm=fromCategoryOrTutorGetAlbumList",
+            "watchnum": "1084"
+        }
+    ],
+    "returnmsg": "",
+    "total": 20
+}
